@@ -1,3 +1,8 @@
+/*
+연산자 끼워넣기 1과의 차이점 : n-1개 이상의 연산자가 있다
+몇개의 연산자가 있을 지 모름
+더 많은 경우의 수 가능
+*/
 #include<iostream>
 #include<vector>
 #include<algorithm>
