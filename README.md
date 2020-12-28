@@ -6,7 +6,8 @@
 
 ---
 ### ✔curriculum
-#### **1**
+---
+#### **#1**
 #### chapter 1 - Brute Force
   - 순열(연습)
   - 재귀(연습)-1
@@ -28,7 +29,8 @@
   - 정렬
   - 이분 탐색
   - 이분 탐색(연습)
-#### **2**
+---
+#### **#2**
 #### chapter 1 - Brute Force-문제
   - Brute Force-문제1
   - Brute Force-문제2
@@ -61,7 +63,8 @@
   - 수학2 도전
 #### chapter 7 - Geometric Algorithm
   - 기하 알고리즘
-#### **3**
+---
+#### **#3**
 #### chapter 1 - Graph
   - DAG와 위상정렬
   - MST
