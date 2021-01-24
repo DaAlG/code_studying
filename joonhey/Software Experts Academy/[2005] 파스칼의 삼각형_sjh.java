@@ -1,4 +1,3 @@
-package SWEA;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -21,10 +20,10 @@ public class Solution {
 			for (int i = 0; i < N; i++) {
 				triangle[i] = new int[i + 1];
 			}
-			
+
 			// N은 1이상 -> [0][0] 초기화하고 시작.
 			triangle[0][0] = 1;
-			
+
 			for (int i = 1; i < N; i++) {
 				for (int j = 0; j < i + 1; j++) {
 
@@ -46,16 +45,15 @@ public class Solution {
 					triangle[i][j] = leftUp + rightUp;
 				}
 			}
-			System.out.println("#" + (t+1));
+			System.out.println("#" + (t + 1));
 			for (int i = 0; i < N; i++) {
 				for (int j = 0; j < i + 1; j++) {
 					System.out.print(triangle[i][j] + " ");
 				}
-                System.out.println("");
+				System.out.println("");
 			}
-            				System.out.println(" ");
 
 		}
-        
+
 	}
 }
