@@ -45,10 +45,7 @@
 ### 2월 4주차
 
 - 공통문제
-    - 2월 24일- 백준 뱀(3190)
-
-        [https://www.acmicpc.net/problem/3190](https://www.acmicpc.net/problem/3190)
-
+    - 2월 24일- 백준 뱀(3190)   [https://www.acmicpc.net/problem/3190](https://www.acmicpc.net/problem/3190)
     - 2월 27일 - 프로그래머스 크레인 인형뽑기 게임 (Level 1)  [https://programmers.co.kr/learn/courses/30/lessons/64061](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - 개별문제
     - 이재영
