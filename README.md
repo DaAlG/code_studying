@@ -15,18 +15,18 @@
     - 2월 13일 - 프로그래머스 키패드누르기(level1)  [https://programmers.co.kr/learn/courses/30/lessons/67256](https://programmers.co.kr/learn/courses/30/lessons/67256)
 - 개별문제
     - 이재영
-        1\. 백준 5585(거스름돈)
-        2\. 11047(동전 0)
-        3\. 11399(ATM)
+      1. 백준 5585(거스름돈)
+      2. 11047(동전 0)
+      3. 11399(ATM)
     - 김서진
-        1\. 프로그래머스 [1차] 비밀지도
-        2\. 프로그래머스 [1차] 다트게임
+      1. 프로그래머스 [1차] 비밀지도
+      2. 프로그래머스 [1차] 다트게임
     - 신준희
     - 우지현
-        1\. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)   
-        [https://www.acmicpc.net/problem/1654](https://www.acmicpc.net/problem/1654)
-        2\. 백준 1780 - 종이의 개수 (분할정복)   
-        [https://www.acmicpc.net/problem/1780](https://www.acmicpc.net/problem/1780)
+      1. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)   
+      [https://www.acmicpc.net/problem/1654](https://www.acmicpc.net/problem/1654)
+      2. 백준 1780 - 종이의 개수 (분할정복)   
+      [https://www.acmicpc.net/problem/1780](https://www.acmicpc.net/problem/1780)
 
 ---
 
