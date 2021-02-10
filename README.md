@@ -23,15 +23,15 @@
        6. 1541(잃어버린 괄호)<br>
        7. 10610(30)<br>
        8. 1946(신입 사원)<br>
-    - 김서진
-      1\. 프로그래머스 [1차] 비밀지도   
-      [https://programmers.co.kr/learn/courses/30/lessons/17681](https://programmers.co.kr/learn/courses/30/lessons/17681)
+    - 김서진   
+      1\. 프로그래머스 [1차] 비밀지도      
+      [https://programmers.co.kr/learn/courses/30/lessons/17681](https://programmers.co.kr/learn/courses/30/lessons/17681)   
       2\. 프로그래머스 [1차] 다트게임
     - 신준희
-    - 우지현
-      1. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)   
-      [https://www.acmicpc.net/problem/1654](https://www.acmicpc.net/problem/1654)
-      2. 백준 1780 - 종이의 개수 (분할정복)   
+    - 우지현   
+      1\. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)   
+      [https://www.acmicpc.net/problem/1654](https://www.acmicpc.net/problem/1654)   
+      2\. 백준 1780 - 종이의 개수 (분할정복)   
       [https://www.acmicpc.net/problem/1780](https://www.acmicpc.net/problem/1780)
 
 ---
