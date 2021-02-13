@@ -26,7 +26,8 @@
     - 김서진   
       1\. 프로그래머스 [1차] 비밀지도      
       [https://programmers.co.kr/learn/courses/30/lessons/17681](https://programmers.co.kr/learn/courses/30/lessons/17681)   
-      2\. 프로그래머스 [1차] 다트게임
+      2\. 프로그래머스 [1차] 다트게임   
+      [https://programmers.co.kr/learn/courses/30/lessons/17682](https://programmers.co.kr/learn/courses/30/lessons/17682)
     - 신준희<br>
       ~1. 백준 17413 단어뒤집기2~<br>
       ~2. SWEA 9229 한빈이와 Spot Mart~<br>
