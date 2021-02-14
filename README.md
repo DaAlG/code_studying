@@ -20,9 +20,9 @@
       ~3. 11399(ATM)~<br>
       ~4. 2217(로프)~<br>
       ~5. 1138(한 줄로 서기)~<br>
-       6. 1541(잃어버린 괄호)<br>
-       7. 10610(30)<br>
-       8. 1946(신입 사원)<br>
+      ~6. 1541(잃어버린 괄호)~<br>
+      ~7. 10610(30)~<br>
+      ~8. 1946(신입 사원)~<br>
     - 김서진   
       1\. 프로그래머스 [1차] 비밀지도      
       [https://programmers.co.kr/learn/courses/30/lessons/17681](https://programmers.co.kr/learn/courses/30/lessons/17681)   
