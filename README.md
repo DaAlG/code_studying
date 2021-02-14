@@ -50,9 +50,9 @@
       ~19. 백준 2578 빙고~<br>
       
     - 우지현   
-      1\. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)   
+      ~1\. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)~   
       [https://www.acmicpc.net/problem/1654](https://www.acmicpc.net/problem/1654)   
-      2\. 백준 1780 - 종이의 개수 (분할정복)   
+      ~2\. 백준 1780 - 종이의 개수 (분할정복)~  
       [https://www.acmicpc.net/problem/1780](https://www.acmicpc.net/problem/1780)
 
 ---
@@ -64,9 +64,17 @@
     - 2월 20일 - 프로그래머스 체육복(level1)   [https://programmers.co.kr/learn/courses/30/lessons/42862](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - 개별문제
     - 이재영
+    
     - 김서진
+    
     - 신준희
+    
     - 우지현
+    
+      1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)   
+      [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)   
+      2\. 백준 11047 - 동전 0 (그리디)  
+      [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
 
 ---
 
@@ -81,6 +89,7 @@
     - 김서진
     - 신준희
     - 우지현
+    - 
 
 ---
 
