@@ -4,6 +4,11 @@
 
 using namespace std;
 
+int getDist(int from, int to)
+{
+	return abs(to - from) / 3 + abs(to - from) % 3;
+}
+
 string solution(vector<int> numbers, string hand)
 {
 	string answer = "";
@@ -14,8 +19,8 @@ string solution(vector<int> numbers, string hand)
 		if (numbers[i] == 0 || numbers[i] % 3 == 2) { // 2, 5, 8, 0일 때는 가까운 엄지
 			if (numbers[i] == 0) numbers[i] = 11;
 			// 세로 길이 + 가로 길이
-			int l_dist = abs(numbers[i] - left) / 3 + abs(numbers[i] - left) % 3;
-			int r_dist = abs(numbers[i] - right) / 3 + abs(numbers[i] - right) % 3;
+			int l_dist = getDist(left, numbers[i]);
+			int r_dist = getDist(right, numbers[i]);
 			
 			if (l_dist == r_dist) {
 				if (hand == "right") {
