@@ -62,12 +62,12 @@
 - 공통문제
     - 2월 17일 - 프로그래머스 수식최대화(level2)   [https://programmers.co.kr/learn/courses/30/lessons/67257](https://programmers.co.kr/learn/courses/30/lessons/67257)
     - 2월 20일 - 프로그래머스 체육복(level1)   [https://programmers.co.kr/learn/courses/30/lessons/42862](https://programmers.co.kr/learn/courses/30/lessons/42862)
-- 개별문제
-    - 이재영<br>    
-      1. 백준 2437(저울)<br>
-      2. 1783(병든 나이트)<br>
-      3. 1969(DNA)<br>
-      4. 2812(크게 만들기)<br>
+- 개별문제<br>
+    - 이재영<br>
+&nbsp; 1. 백준 2437(저울)<br>
+&nbsp; 2. 1783(병든 나이트)<br>
+&nbsp; 3. 1969(DNA)      
+&nbsp; 4. 2812(크게 만들기)<br>
     - 김서진
     
     - 신준희<br>
