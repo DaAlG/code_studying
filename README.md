@@ -62,12 +62,21 @@
 - 공통문제
     - 2월 17일 - 프로그래머스 수식최대화(level2)   [https://programmers.co.kr/learn/courses/30/lessons/67257](https://programmers.co.kr/learn/courses/30/lessons/67257)
     - 2월 20일 - 프로그래머스 체육복(level1)   [https://programmers.co.kr/learn/courses/30/lessons/42862](https://programmers.co.kr/learn/courses/30/lessons/42862)
-- 개별문제
-    - 이재영
-    
+- 개별문제<br>
+    - 이재영<br>
+&nbsp; 1. 백준 2437(저울)<br>
+&nbsp; 2. 1783(병든 나이트)<br>
+&nbsp; 3. 1969(DNA)      
+&nbsp; 4. 2812(크게 만들기)<br>
     - 김서진
     
-    - 신준희
+    - 신준희<br>
+      ~1. 백준 2567 색종이2~<br>
+      ~2. 백준 3040 백설공주와 일곱난쟁이~<br>
+      ~3. SWEA 6808 규영이와 인영이의 카드게임~<br>
+      4. SWEA 1493 수의 새로운 연산<br>
+      5. 백준 2961 도영이가 만든 맛있는 음식<br>
+      6. SWEA 1733 오목<br>
     
     - 우지현
     
