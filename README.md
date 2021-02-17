@@ -68,7 +68,11 @@
 &nbsp; 2. 1783(병든 나이트)<br>
 &nbsp; 3. 1969(DNA)      
 &nbsp; 4. 2812(크게 만들기)<br>
-    - 김서진
+    - 김서진   
+      1\. 백준 12851 숨바꼭질 2 (BFS)   
+      [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
+      2\. 백준 16958 텔레포트   
+      [https://www.acmicpc.net/problem/16958](https://www.acmicpc.net/problem/16958)   
     
     - 신준희<br>
       ~1. 백준 2567 색종이2~<br>
