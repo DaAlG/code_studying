@@ -71,7 +71,7 @@
     
     - 우지현
     
-      1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)   
+      ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복) ~  
       [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)   
       2\. 백준 11047 - 동전 0 (그리디)  
       [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
