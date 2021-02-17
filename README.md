@@ -20,9 +20,9 @@
       ~3. 11399(ATM)~<br>
       ~4. 2217(로프)~<br>
       ~5. 1138(한 줄로 서기)~<br>
-       6. 1541(잃어버린 괄호)<br>
-       7. 10610(30)<br>
-       8. 1946(신입 사원)<br>
+      ~6. 1541(잃어버린 괄호)~<br>
+      ~7. 10610(30)~<br>
+      ~8. 1946(신입 사원)~<br>
     - 김서진   
       1\. 프로그래머스 [1차] 비밀지도      
       [https://programmers.co.kr/learn/courses/30/lessons/17681](https://programmers.co.kr/learn/courses/30/lessons/17681)   
@@ -62,12 +62,29 @@
 - 공통문제
     - 2월 17일 - 프로그래머스 수식최대화(level2)   [https://programmers.co.kr/learn/courses/30/lessons/67257](https://programmers.co.kr/learn/courses/30/lessons/67257)
     - 2월 20일 - 프로그래머스 체육복(level1)   [https://programmers.co.kr/learn/courses/30/lessons/42862](https://programmers.co.kr/learn/courses/30/lessons/42862)
-- 개별문제
-    - 이재영
+- 개별문제<br>
+    - 이재영<br>
+&nbsp; 1. 백준 2437(저울)<br>
+&nbsp; 2. 1783(병든 나이트)<br>
+&nbsp; 3. 1969(DNA)      
+&nbsp; 4. 2812(크게 만들기)<br>
+    - 김서진   
+      1\. 백준 12851 숨바꼭질 2 (BFS)   
+      [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
+      2\. 백준 16958 텔레포트   
+      [https://www.acmicpc.net/problem/16958](https://www.acmicpc.net/problem/16958)   
     
-    - 김서진
-    
-    - 신준희
+    - 신준희<br>
+      ~1. 백준 2567 색종이2~<br>
+      ~2. 백준 3040 백설공주와 일곱난쟁이~<br>
+      ~3. SWEA 6808 규영이와 인영이의 카드게임~<br>
+      4. SWEA 1493 수의 새로운 연산<br>
+      ~5. 백준 2961 도영이가 만든 맛있는 음식<br>~
+      6. SWEA 1733 오목<br>
+      ~7. JUNGOL 1828 냉장고~<br>
+      ~8. 백준 2839 설탕배달~<br>
+      9. 백준 1074 Z<br>
+      10. SWEA 1493 수의 새로운 연산<br>
     
     - 우지현
     
