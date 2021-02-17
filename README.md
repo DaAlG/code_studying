@@ -67,7 +67,7 @@
 &nbsp; ~1. 백준 2437(저울)~<br>
 &nbsp; ~2. 1783(병든 나이트)~<br>
 &nbsp; ~3. 1969(DNA)~      
-&nbsp; 4. 2812(크게 만들기)<br>
+&nbsp; ~4. 2812(크게 만들기)~<br>
     - 김서진   
       1\. 백준 12851 숨바꼭질 2 (BFS)   
       [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
