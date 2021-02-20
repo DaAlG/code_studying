@@ -69,7 +69,7 @@
 &nbsp; ~3. 1969(DNA)~      
 &nbsp; ~4. 2812(크게 만들기)~<br>
 &nbsp; 5. 11048(이동하기)<br>
-&nbsp; 6. 점프 (이동하기)<br>
+&nbsp; 6. 11060 (점프 점프)<br>
     - 김서진   
       1\. 백준 12851 숨바꼭질 2 (BFS)   
       [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
