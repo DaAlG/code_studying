@@ -68,6 +68,8 @@
 &nbsp; ~2. 1783(병든 나이트)~<br>
 &nbsp; ~3. 1969(DNA)~      
 &nbsp; ~4. 2812(크게 만들기)~<br>
+&nbsp; 5. 11048(이동하기)<br>
+&nbsp; 6. 11060 (점프 점프)<br>
     - 김서진   
       1\. 백준 12851 숨바꼭질 2 (BFS)   
       [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
@@ -80,7 +82,7 @@
       ~3. SWEA 6808 규영이와 인영이의 카드게임~<br>
       4. SWEA 1493 수의 새로운 연산<br>
       ~5. 백준 2961 도영이가 만든 맛있는 음식<br>~
-      6. SWEA 1733 오목<br>
+      6. 백준 2615 오목<br>
       ~7. JUNGOL 1828 냉장고~<br>
       ~8. 백준 2839 설탕배달~<br>
       9. 백준 1074 Z<br>
@@ -90,12 +92,16 @@
       13. 백준 배열돌리기4<br>
       14. 백준 17135 캐슬 디펜스<br>
       15. 백준 3109 빵집<br>
-    
+      ~16. 백준 1987 알파벳~<br>
+      ~17. 백준 2941 크로아티아 알파벳~<br>
+      ~18. SWEA SW 문제해결응용 3일차 - 최적경로~<br>
+      19. 백준 9663 N-Queen<br/>
+      
     - 우지현
     
       ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~  
       [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)   
-      2\. 백준 11047 - 동전 0 (그리디)  
+      ~2\. 백준 11047 - 동전 0 (그리디)~  
       [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
 
 ---
@@ -108,10 +114,17 @@
     - 2월 27일 - 프로그래머스 크레인 인형뽑기 게임 (Level 1)  [https://programmers.co.kr/learn/courses/30/lessons/64061](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - 개별문제
     - 이재영
+
     - 김서진
+
     - 신준희
+
     - 우지현
-    - 
+
+      1\. 백준 2873 - 롤러코스터 (그리디)  
+      https://www.acmicpc.net/problem/2873   
+      2\. 백준 1107 - 리모컨 (브루트포스)  
+      https://www.acmicpc.net/problem/1107
 
 ---
 
