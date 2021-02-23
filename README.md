@@ -112,7 +112,7 @@
     - 2월 27일 - 프로그래머스 크레인 인형뽑기 게임 (Level 1)  [https://programmers.co.kr/learn/courses/30/lessons/64061](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - 개별문제
     - 이재영<br>
-    1\. 백준 11048(이동하기)<br>
+    ~1\. 백준 11048(이동하기)~<br>
     2\. 백준 11060 (점프 점프)<br>
     - 김서진   
     1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데   
