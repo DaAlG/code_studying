@@ -24,9 +24,9 @@
       ~7. 10610(30)~<br>
       ~8. 1946(신입 사원)~<br>
     - 김서진   
-      1\. 프로그래머스 [1차] 비밀지도      
+      ~1\. 프로그래머스 [1차] 비밀지도~      
       [https://programmers.co.kr/learn/courses/30/lessons/17681](https://programmers.co.kr/learn/courses/30/lessons/17681)   
-      2\. 프로그래머스 [1차] 다트게임   
+      ~2\. 프로그래머스 [1차] 다트게임~   
       [https://programmers.co.kr/learn/courses/30/lessons/17682](https://programmers.co.kr/learn/courses/30/lessons/17682)
     - 신준희<br>
       ~1. 백준 17413 단어뒤집기2~<br>
@@ -71,7 +71,7 @@
 &nbsp; 5. 11048(이동하기)<br>
 &nbsp; 6. 11060 (점프 점프)<br>
     - 김서진   
-      1\. 백준 12851 숨바꼭질 2 (BFS)   
+      ~1\. 백준 12851 숨바꼭질 2 (BFS)~   
       [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
       2\. 백준 16958 텔레포트   
       [https://www.acmicpc.net/problem/16958](https://www.acmicpc.net/problem/16958)   
@@ -115,7 +115,11 @@
 - 개별문제
     - 이재영
 
-    - 김서진
+    - 김서진   
+    1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데   
+    [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
+    2\. 백준 16959 - 체스판 여행 1   
+    [https://www.acmicpc.net/problem/16959](https://www.acmicpc.net/problem/16959)   
 
     - 신준희
 
