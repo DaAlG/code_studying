@@ -68,8 +68,6 @@
 &nbsp; ~2. 1783(병든 나이트)~<br>
 &nbsp; ~3. 1969(DNA)~      
 &nbsp; ~4. 2812(크게 만들기)~<br>
-&nbsp; 5. 11048(이동하기)<br>
-&nbsp; 6. 11060 (점프 점프)<br>
     - 김서진   
       ~1\. 백준 12851 숨바꼭질 2 (BFS)~   
       [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
@@ -113,8 +111,9 @@
     [https://www.acmicpc.net/problem/3190](https://www.acmicpc.net/problem/3190)
     - 2월 27일 - 프로그래머스 크레인 인형뽑기 게임 (Level 1)  [https://programmers.co.kr/learn/courses/30/lessons/64061](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - 개별문제
-    - 이재영
-
+    - 이재영<br>
+    1\. 백준 11048(이동하기)<br>
+    2\. 백준 11060 (점프 점프)<br>
     - 김서진   
     1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데   
     [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
