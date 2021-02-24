@@ -48,7 +48,6 @@
       ~17. 백준 2309 일곱난쟁이~<br>
       ~18. 백준 2605 줄세우기~<br>
       ~19. 백준 2578 빙고~<br>
-      
     - 우지현   
       ~1\. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)~   
       [https://www.acmicpc.net/problem/1654](https://www.acmicpc.net/problem/1654)   
@@ -73,7 +72,6 @@
       [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
       2\. 백준 16958 텔레포트   
       [https://www.acmicpc.net/problem/16958](https://www.acmicpc.net/problem/16958)   
-    
     - 신준희<br>
       ~1. 백준 2567 색종이2~<br>
       ~2. 백준 3040 백설공주와 일곱난쟁이~<br>
@@ -94,14 +92,11 @@
       ~17. 백준 2941 크로아티아 알파벳~<br>
       ~18. SWEA SW 문제해결응용 3일차 - 최적경로~<br>
       19. 백준 9663 N-Queen<br/>
-      
     - 우지현
-    
       ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~  
-      [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)   
+      [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)
       ~2\. 백준 11047 - 동전 0 (그리디)~  
       [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
-
 ---
 
 ### 2월 4주차
@@ -119,16 +114,12 @@
     [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
     2\. 백준 16959 - 체스판 여행 1   
     [https://www.acmicpc.net/problem/16959](https://www.acmicpc.net/problem/16959)   
-
     - 신준희
-
     - 우지현
-
-      1\. 백준 2873 - 롤러코스터 (그리디)  
-      https://www.acmicpc.net/problem/2873   
+      ~1\. 백준 2873 - 롤러코스터 (그리디)~  
+      https://www.acmicpc.net/problem/2873
       2\. 백준 1107 - 리모컨 (브루트포스)  
       https://www.acmicpc.net/problem/1107
-
 ---
 
 ### 3월 1주차
