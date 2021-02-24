@@ -92,11 +92,11 @@
       ~17. 백준 2941 크로아티아 알파벳~<br>
       ~18. SWEA SW 문제해결응용 3일차 - 최적경로~<br>
       19. 백준 9663 N-Queen<br/>
-    - 우지현
-      ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~  
-      [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)
-      ~2\. 백준 11047 - 동전 0 (그리디)~  
-      [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
+    - 우지현<br>
+      ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~<br>  
+      [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)<br>
+      ~2\. 백준 11047 - 동전 0 (그리디)~<br>  
+      [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)<br>
 ---
 
 ### 2월 4주차
@@ -115,11 +115,11 @@
     2\. 백준 16959 - 체스판 여행 1   
     [https://www.acmicpc.net/problem/16959](https://www.acmicpc.net/problem/16959)   
     - 신준희
-    - 우지현
-      ~1\. 백준 2873 - 롤러코스터 (그리디)~  
-      https://www.acmicpc.net/problem/2873
-      2\. 백준 1107 - 리모컨 (브루트포스)  
-      https://www.acmicpc.net/problem/1107
+    - 우지현<br>
+      ~1\. 백준 2873 - 롤러코스터 (그리디)~<br>  
+      https://www.acmicpc.net/problem/2873<br>
+      2\. 백준 1107 - 리모컨 (브루트포스)<br>  
+      https://www.acmicpc.net/problem/1107<br>
 ---
 
 ### 3월 1주차
