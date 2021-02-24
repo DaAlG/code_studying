@@ -67,11 +67,9 @@
     - 김서진
     - 신준희
     - 우지현
-      ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~  
-      [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)   
+~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~  [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)   
       ~2\. 백준 11047 - 동전 0 (그리디)~  
-      [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
-
+[https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
 ---
 
 ### 2월 4주차
@@ -81,15 +79,15 @@
     [https://www.acmicpc.net/problem/3190](https://www.acmicpc.net/problem/3190)
     - 2월 27일 - 프로그래머스 크레인 인형뽑기 게임 (Level 1)  [https://programmers.co.kr/learn/courses/30/lessons/64061](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - 개별문제
-    - 이재영
-- 김서진
-    - 신준희
-- 우지현
-    1\. 백준 2873 - 롤러코스터 (그리디)  
-  https://www.acmicpc.net/problem/2873   
-      2\. 백준 1107 - 리모컨 (브루트포스)  
-  https://www.acmicpc.net/problem/1107
 
+    - 이재영
+    - 김서진
+    - 신준희   
+    - 우지현
+      ~1\. 백준 2873 - 롤러코스터 (그리디)~  
+      https://www.acmicpc.net/problem/2873
+      2\. 백준 1107 - 리모컨 (브루트포스)  
+      https://www.acmicpc.net/problem/1107
 ---
 
 ### 3월 1주차
