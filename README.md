@@ -24,9 +24,9 @@
       ~7. 10610(30)~<br>
       ~8. 1946(신입 사원)~<br>
     - 김서진   
-      1\. 프로그래머스 [1차] 비밀지도      
+      ~1\. 프로그래머스 [1차] 비밀지도~      
       [https://programmers.co.kr/learn/courses/30/lessons/17681](https://programmers.co.kr/learn/courses/30/lessons/17681)   
-      2\. 프로그래머스 [1차] 다트게임   
+      ~2\. 프로그래머스 [1차] 다트게임~   
       [https://programmers.co.kr/learn/courses/30/lessons/17682](https://programmers.co.kr/learn/courses/30/lessons/17682)
     - 신준희<br>
       ~1. 백준 17413 단어뒤집기2~<br>
@@ -48,7 +48,6 @@
       ~17. 백준 2309 일곱난쟁이~<br>
       ~18. 백준 2605 줄세우기~<br>
       ~19. 백준 2578 빙고~<br>
-      
     - 우지현   
       ~1\. 백준 1654 - 랜선 자르기 (Binary Search, Ternary Search)~   
       [https://www.acmicpc.net/problem/1654](https://www.acmicpc.net/problem/1654)   
@@ -68,42 +67,29 @@
 &nbsp; ~2. 1783(병든 나이트)~<br>
 &nbsp; ~3. 1969(DNA)~      
 &nbsp; ~4. 2812(크게 만들기)~<br>
-&nbsp; 5. 11048(이동하기)<br>
-&nbsp; 6. 11060 (점프 점프)<br>
     - 김서진   
-      1\. 백준 12851 숨바꼭질 2 (BFS)   
+      ~1\. 백준 12851 숨바꼭질 2 (BFS)~   
       [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851)     
       2\. 백준 16958 텔레포트   
       [https://www.acmicpc.net/problem/16958](https://www.acmicpc.net/problem/16958)   
-    
     - 신준희<br>
       ~1. 백준 2567 색종이2~<br>
       ~2. 백준 3040 백설공주와 일곱난쟁이~<br>
       ~3. SWEA 6808 규영이와 인영이의 카드게임~<br>
-      4. SWEA 1493 수의 새로운 연산<br>
       ~5. 백준 2961 도영이가 만든 맛있는 음식<br>~
-      6. 백준 2615 오목<br>
       ~7. JUNGOL 1828 냉장고~<br>
       ~8. 백준 2839 설탕배달~<br>
-      9. 백준 1074 Z<br>
       ~10. 백준 15686 치킨배달~<br>
       ~11. 백준 1992 쿼트트리~<br>
-      12. 백준 배열돌리기3<br>
-      13. 백준 배열돌리기4<br>
-      14. 백준 17135 캐슬 디펜스<br>
-      15. 백준 3109 빵집<br>
       ~16. 백준 1987 알파벳~<br>
       ~17. 백준 2941 크로아티아 알파벳~<br>
       ~18. SWEA SW 문제해결응용 3일차 - 최적경로~<br>
-      19. 백준 9663 N-Queen<br/>
-      
-    - 우지현
-    
-      ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~  
+    - 우지현   
+      ~1\. 백준 11729 - 하노이 탑 이동 순서 (분할정복)~   
       [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)   
       ~2\. 백준 11047 - 동전 0 (그리디)~  
       [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
-
+    
 ---
 
 ### 2월 4주차
@@ -113,19 +99,32 @@
     [https://www.acmicpc.net/problem/3190](https://www.acmicpc.net/problem/3190)
     - 2월 27일 - 프로그래머스 크레인 인형뽑기 게임 (Level 1)  [https://programmers.co.kr/learn/courses/30/lessons/64061](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - 개별문제
-    - 이재영
-
-    - 김서진
-
-    - 신준희
-
-    - 우지현
-
-      1\. 백준 2873 - 롤러코스터 (그리디)  
-      https://www.acmicpc.net/problem/2873   
+    - 이재영<br>
+    ~1\. 백준 11048(이동하기)~<br>
+    2\. 백준 11060 (점프 점프)<br>
+    - 김서진   
+    1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데   
+    [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
+    2\. 백준 16959 - 체스판 여행 1   
+    [https://www.acmicpc.net/problem/16959](https://www.acmicpc.net/problem/16959)   
+    - 신준희<br>
+    1\. 백준 배열돌리기3<br>
+    2\. 백준 배열돌리기4<br>
+    3\. 백준 17135 캐슬 디펜스<br>
+    4\. 백준 3109 빵집<br>
+    5\. 백준 2615 오목<br>
+    6\. 백준 1074 Z<br>
+    7\. SWEA 1493 수의 새로운 연산<br>
+    8\. 백준 9663 N-Queen<br>
+    9\. SWEA 프로세서 연결하기<br>
+    10\. SWEA 3234 준환이의 양팔저울<br>
+    11\. SWEA 4012 요리사<br>
+    - 우지현   
+      ~1\. 백준 2873 - 롤러코스터 (그리디)~   
+      [https://www.acmicpc.net/problem/2873](https://www.acmicpc.net/problem/2873)   
       2\. 백준 1107 - 리모컨 (브루트포스)  
-      https://www.acmicpc.net/problem/1107
-
+      [https://www.acmicpc.net/problem/1107](https://www.acmicpc.net/problem/1107)
+      
 ---
 
 ### 3월 1주차
