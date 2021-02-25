@@ -118,7 +118,10 @@
     8\. 백준 9663 N-Queen<br>
     9\. SWEA 프로세서 연결하기<br>
     10\. SWEA 3234 준환이의 양팔저울<br>
-    11\. SWEA 4012 요리사<br>
+    ~11\. SWEA 4012 요리사<br>~
+    12\. 백준 10142 줄세우기<br>
+    ~13\. 백준 2564 경비원<br>~
+    ~14\. 백준 8320 직사각형을 만드는 방법<br>~
     - 우지현   
       ~1\. 백준 2873 - 롤러코스터 (그리디)~   
       [https://www.acmicpc.net/problem/2873](https://www.acmicpc.net/problem/2873)   
