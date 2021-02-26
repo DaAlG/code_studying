@@ -43,7 +43,7 @@ class Main {
 	// 머리만 움직이고 몸통이 따라가므로 종료 여부는 몸통 말고 머리로만 판단.
 	public static int moveSnake(Point headPos) {
 		// 현위치 안전? - 범위, 자신의 몸과 충돌여부 체크
-		if (headPos.x > N || headPos.x < 0 || headPos.y > N || headPos.y < 0)
+		if (headPos.x > N || headPos.x < 1 || headPos.y > N || headPos.y < 1)
 			return cnt;
 
 		// 뱀 크기, 위치 업데이트
@@ -57,10 +57,11 @@ class Main {
 
 		if (!apples.contains(headPos))// 사과가 없으면 꼬리 자르기, !!사과 먹기 !!
 		{
-			apples.remove(headPos);
 			snake.remove(0);
 		}
-
+		else {
+			apples.remove(headPos);
+		}
 		// 다음방향계산
 		if (turnMap.get(cnt) != null) {
 			switch (turnMap.get(cnt)) {
