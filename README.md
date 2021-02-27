@@ -103,10 +103,10 @@
     ~1\. 백준 11048(이동하기)~<br>
     ~2\. 백준 11060 (점프 점프)~<br>
     - 김서진   
-    1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데   
+    1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데(미완)      
     [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
-    2\. 백준 16959 - 체스판 여행 1   
-    [https://www.acmicpc.net/problem/16959](https://www.acmicpc.net/problem/16959)   
+    2\. 프로그래머스 - 기둥과 보 설치 
+    [https://programmers.co.kr/learn/courses/30/lessons/60061](https://programmers.co.kr/learn/courses/30/lessons/60061)   
     - 신준희<br>
     1\. 백준 배열돌리기3<br>
     2\. 백준 배열돌리기4<br>
