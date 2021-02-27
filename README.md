@@ -122,7 +122,7 @@
     - 우지현   
       ~1\. 백준 2873 - 롤러코스터 (그리디)~   
       [https://www.acmicpc.net/problem/2873](https://www.acmicpc.net/problem/2873)   
-      2\. 백준 1107 - 리모컨 (브루트포스)  
+      ~2\. 백준 1107 - 리모컨 (브루트포스)~  
       [https://www.acmicpc.net/problem/1107](https://www.acmicpc.net/problem/1107)
       
 ---
