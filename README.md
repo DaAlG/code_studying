@@ -109,13 +109,13 @@
     [https://programmers.co.kr/learn/courses/30/lessons/60061](https://programmers.co.kr/learn/courses/30/lessons/60061)   
     - 신준희<br>
     1\. 백준 배열돌리기3<br>
-    2\. 백준 배열돌리기4<br>
+    ~2\. 프로그래머스 네트워크<br>~
     3\. 백준 17135 캐슬 디펜스<br>
     4\. 백준 3109 빵집<br>
     5\. 백준 2615 오목<br>
     6\. 백준 1074 Z<br>
-    7\. SWEA 1493 수의 새로운 연산<br>
-    8\. 백준 9663 N-Queen<br>
+    ~7\. 백준 2304 창고 다각형<br>~
+    ~8\. 백준 9663 N-Queen<br>~
     9\. SWEA 프로세서 연결하기<br>
     10\. SWEA 3234 준환이의 양팔저울<br>
     ~11\. SWEA 4012 요리사<br>~
