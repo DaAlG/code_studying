@@ -129,7 +129,9 @@
     - 3월 3일 - 프로그래머스 조이스틱(level2)  [https://programmers.co.kr/learn/courses/30/lessons/42860](https://programmers.co.kr/learn/courses/30/lessons/42860)
     - 3월 6일 - 프로그래머스 메뉴 리뉴얼 (Level 2) [https://programmers.co.kr/learn/courses/30/lessons/72411](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - 개별문제
-    - 이재영
+    - 이재영<br>
+     1\. 백준 10942 팰린드롬?<br>
+     2\. 백준 15989 1,2,3 더하기 4<br>
     - 김서진
     - 신준희<br>
     1\. 백준 배열돌리기3<br>
