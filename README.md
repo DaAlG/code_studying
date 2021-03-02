@@ -105,7 +105,7 @@
     - 김서진   
     1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데   
     [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
-    2\. 백준 16959 - 체스판 여행 1   
+    ~2\. 백준 16959 - 체스판 여행 1~   
     [https://www.acmicpc.net/problem/16959](https://www.acmicpc.net/problem/16959)   
     - 신준희<br>
     1\. 백준 배열돌리기3<br>
@@ -137,7 +137,11 @@
     - 3월 6일 - 프로그래머스 메뉴 리뉴얼 (Level 2) [https://programmers.co.kr/learn/courses/30/lessons/72411](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - 개별문제
     - 이재영
-    - 김서진
+    - 김서진   
+    1\. 백준 18352 - 특정 거리의 도시 찾기   
+    [https://www.acmicpc.net/problem/18352](https://www.acmicpc.net/problem/18352)   
+    2\. 백준 14502 - 연구소   
+    [https://www.acmicpc.net/problem/14502](https://www.acmicpc.net/problem/14502)   
     - 신준희
     - 우지현
 
