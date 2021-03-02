@@ -101,31 +101,24 @@
 - 개별문제
     - 이재영<br>
     ~1\. 백준 11048(이동하기)~<br>
-    2\. 백준 11060 (점프 점프)<br>
+    ~2\. 백준 11060 (점프 점프)~<br>
     - 김서진   
-    1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데   
+    1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데(미완)      
     [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
-    2\. 백준 16959 - 체스판 여행 1   
-    [https://www.acmicpc.net/problem/16959](https://www.acmicpc.net/problem/16959)   
+    2\. 프로그래머스 - 기둥과 보 설치 
+    [https://programmers.co.kr/learn/courses/30/lessons/60061](https://programmers.co.kr/learn/courses/30/lessons/60061)   
     - 신준희<br>
-    1\. 백준 배열돌리기3<br>
-    2\. 백준 배열돌리기4<br>
-    3\. 백준 17135 캐슬 디펜스<br>
-    4\. 백준 3109 빵집<br>
-    5\. 백준 2615 오목<br>
-    6\. 백준 1074 Z<br>
-    7\. SWEA 1493 수의 새로운 연산<br>
-    8\. 백준 9663 N-Queen<br>
-    9\. SWEA 프로세서 연결하기<br>
-    10\. SWEA 3234 준환이의 양팔저울<br>
+    ~2\. 프로그래머스 네트워크<br>~
+    ~7\. 백준 2304 창고 다각형<br>~
+    ~8\. 백준 9663 N-Queen<br>~
     ~11\. SWEA 4012 요리사<br>~
-    12\. 백준 10142 줄세우기<br>
+    ~12\. 백준 10142 줄세우기<br>~
     ~13\. 백준 2564 경비원<br>~
     ~14\. 백준 8320 직사각형을 만드는 방법<br>~
     - 우지현   
       ~1\. 백준 2873 - 롤러코스터 (그리디)~   
       [https://www.acmicpc.net/problem/2873](https://www.acmicpc.net/problem/2873)   
-      2\. 백준 1107 - 리모컨 (브루트포스)  
+      ~2\. 백준 1107 - 리모컨 (브루트포스)~  
       [https://www.acmicpc.net/problem/1107](https://www.acmicpc.net/problem/1107)
       
 ---
@@ -136,9 +129,23 @@
     - 3월 3일 - 프로그래머스 조이스틱(level2)  [https://programmers.co.kr/learn/courses/30/lessons/42860](https://programmers.co.kr/learn/courses/30/lessons/42860)
     - 3월 6일 - 프로그래머스 메뉴 리뉴얼 (Level 2) [https://programmers.co.kr/learn/courses/30/lessons/72411](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - 개별문제
-    - 이재영
+    - 이재영<br>
+     1\. 백준 10942 팰린드롬?<br>
+     2\. 백준 15989 1,2,3 더하기 4<br>
     - 김서진
-    - 신준희
+    - 신준희<br>
+    1\. 백준 배열돌리기3<br>
+    2\. SWEA 프로세서 연결하기<br>
+    3\. SWEA 3234 준환이의 양팔저울<br>
+    4\. 백준 17135 캐슬 디펜스<br>
+    5\. 백준 3109 빵집<br>
+    6\. 백준 2615 오목<br>
+    7\. 백준 1074 Z<br>
+    8\. 프로그래머스 SQL - GROUP BY<br>
+    9\. 프로그래머스 SQL - IS NULL<br>
+    10\. 프로그래머스 SQL - JOIN<br>
+    11\. 프로그래머스 SQL - String<br>
+    
     - 우지현
 
 ---
