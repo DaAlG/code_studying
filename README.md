@@ -105,7 +105,7 @@
     - 김서진   
     1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데(미완)      
     [https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   
-    2\. 프로그래머스 - 기둥과 보 설치 
+    ~2\. 프로그래머스 - 기둥과 보 설치~ 
     [https://programmers.co.kr/learn/courses/30/lessons/60061](https://programmers.co.kr/learn/courses/30/lessons/60061)   
     - 신준희<br>
     ~2\. 프로그래머스 네트워크<br>~
@@ -132,7 +132,11 @@
     - 이재영<br>
      1\. 백준 10942 팰린드롬?<br>
      2\. 백준 15989 1,2,3 더하기 4<br>
-    - 김서진
+    - 김서진   
+    1\. 백준 18352 특정 거리의 도시 찾기   
+    [https://www.acmicpc.net/problem/18352](https://www.acmicpc.net/problem/18352)   
+    2\. 백준 14502 연구소   
+    [https://www.acmicpc.net/problem/14502](https://www.acmicpc.net/problem/14502)   
     - 신준희<br>
     1\. 백준 배열돌리기3<br>
     2\. SWEA 프로세서 연결하기<br>
