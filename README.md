@@ -120,7 +120,6 @@
       [https://www.acmicpc.net/problem/2873](https://www.acmicpc.net/problem/2873)   
       ~2\. 백준 1107 - 리모컨 (브루트포스)~  
       [https://www.acmicpc.net/problem/1107](https://www.acmicpc.net/problem/1107)
-      
 ---
 
 ### 3월 1주차
@@ -130,7 +129,7 @@
     - 3월 6일 - 프로그래머스 메뉴 리뉴얼 (Level 2) [https://programmers.co.kr/learn/courses/30/lessons/72411](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - 개별문제
     - 이재영<br>
-     1\. 백준 10942 팰린드롬?<br>
+     ~1\. 백준 10942 팰린드롬?<br>~
      2\. 백준 15989 1,2,3 더하기 4<br>
     - 김서진   
     ~1\. 백준 18352 특정 거리의 도시 찾기~   
@@ -149,7 +148,10 @@
     9\. 프로그래머스 SQL - IS NULL<br>
     10\. 프로그래머스 SQL - JOIN<br>
     11\. 프로그래머스 SQL - String<br>
-    
-    - 우지현
+    - 우지현   
+      ~1\. 백준 1451 - 직사각형으로 나누기 (브루트포스)~   
+      [https://www.acmicpc.net/problem/1451](https://www.acmicpc.net/problem/1451)   
+      2\. 백준 2186 - 문자판 (브루트포스)  
+      [https://www.acmicpc.net/problem/2186](https://www.acmicpc.net/problem/2186)
 
 ---
