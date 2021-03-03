@@ -144,8 +144,7 @@
     9\. 프로그래머스 SQL - IS NULL<br>
     10\. 프로그래머스 SQL - JOIN<br>
     11\. 프로그래머스 SQL - String<br>
-    
-    - 우지현
+    - 우지현   
       ~1\. 백준 1451 - 직사각형으로 나누기 (브루트포스)~   
       [https://www.acmicpc.net/problem/1451](https://www.acmicpc.net/problem/1451)   
       2\. 백준 2186 - 문자판 (브루트포스)  
