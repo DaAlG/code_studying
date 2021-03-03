@@ -136,7 +136,7 @@
     - 김서진
     - 신준희
     - 우지현
-      1\. 백준 1451 - 직사각형으로 나누기 (브루트포스)   
+      ~1\. 백준 1451 - 직사각형으로 나누기 (브루트포스)~   
       [https://www.acmicpc.net/problem/1451](https://www.acmicpc.net/problem/1451)   
       2\. 백준 2186 - 문자판 (브루트포스)  
       [https://www.acmicpc.net/problem/2186](https://www.acmicpc.net/problem/2186)
