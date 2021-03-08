@@ -69,7 +69,7 @@
 |                                  | 문제                                                         |
 | :------------------------------: | :----------------------------------------------------------- |
 | 1주차<br />(21.02.08 ~ 21.02.14) | ~[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)~<br />~[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)~ |
-| 2주차<br />(21.02.15 ~ 21.02.21) | ~ 백준 12851 [숨바꼭질 2](https://www.acmicpc.net/problem/12851)~<br />~백준 16958 [텔레포트](https://www.acmicpc.net/problem/16958)~ |
+| 2주차<br />(21.02.15 ~ 21.02.21) | ~백준 12851 [숨바꼭질 2](https://www.acmicpc.net/problem/12851)~<br />~백준 16958 [텔레포트](https://www.acmicpc.net/problem/16958)~ |
 | 3주차<br />(21.02.22 ~ 21.02.28) | 1\. 백준 2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데(미완)      <br/>[https://www.acmicpc.net/problem/2422](https://www.acmicpc.net/problem/2422)   <br/>~2\. 프로그래머스 - 기둥과 보 설치~ <br/>[https://programmers.co.kr/learn/courses/30/lessons/60061](https://programmers.co.kr/learn/courses/30/lessons/60061) |
 | 4주차<br />(21.03.01 ~ 21.03.07) | ~1\. 백준 18352 특정 거리의 도시 찾기~   <br/>[https://www.acmicpc.net/problem/18352](https://www.acmicpc.net/problem/18352)   <br/>2\. 백준 14502 연구소   <br/>[https://www.acmicpc.net/problem/14502](https://www.acmicpc.net/problem/14502) |
 | 5주차<br />(21.03.08 ~ 21.03.14) |                                                              |
@@ -129,7 +129,7 @@
 
 
 
-## ** &#128216; 문제 목록**
+## **&#128216; 문제 목록**
 
 <details markdown="1">
 <summary><strong>📄 삼성 SW 역량 테스트 기출 문제</strong></summary>
