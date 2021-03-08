@@ -44,9 +44,10 @@
 <details markdown="1">
 <summary><strong>&#128193; 재영</strong></summary>
 
-📕 알고리즘/C++ 정리 요약: https://www.notion.so/C-4be12fdb389f41e8bbf46a4e7bde52c0 <br />
-📗 알고리즘 상세: https://www.notion.so/022648dc340b4e8c95472996a91920a1 <br />
-📘 C++ 상세: https://www.notion.so/C-add01ac9a89a497d8a45e364120add74 <br />
+📕  알고리즘/C++ 정리 요약:  https://www.notion.so/C-4be12fdb389f41e8bbf46a4e7bde52c0 <br />
+📗  알고리즘 상세:  https://www.notion.so/022648dc340b4e8c95472996a91920a1 <br />
+📘  C++ 상세:  https://www.notion.so/C-add01ac9a89a497d8a45e364120add74 <br />
+📙  코드 리뷰:  https://www.notion.so/93aa5a58731d4dbeb2da82381bf9743d<br />
 
 |                                  | 문제                                                         |
 | :------------------------------: | :----------------------------------------------------------- |
