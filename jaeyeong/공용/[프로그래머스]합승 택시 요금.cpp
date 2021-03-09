@@ -9,27 +9,18 @@ using namespace std;
 int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
 	int answer = INF;
 	//결과 그래프, map 초기화
-	int d[201][201], map[201][201];
+	int d[201][201];
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
-			if (i == j) {
-				map[i][j] = 0;
+			if (i == j)
 				d[i][j] = 0;
-			}
-			else {
-				map[i][j] = INF;
+			else
 				d[i][j] = INF;
-			}
 		}
 	}
 	for (int i = 0; i < fares.size(); i++) {
-		map[fares[i][0]][fares[i][1]] = fares[i][2];
-		map[fares[i][1]][fares[i][0]] = fares[i][2];
-	}
-	for (int i = 1; i <= n; i++) {
-		for (int j = 1; j <= n; j++) {
-			d[i][j] = map[i][j];
-		}
+		d[fares[i][0]][fares[i][1]] = fares[i][2];
+		d[fares[i][1]][fares[i][0]] = fares[i][2];
 	}
 
 	// k = 거쳐가는 노드
