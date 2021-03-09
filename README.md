@@ -116,7 +116,7 @@
 |                                  | 문제                                                         |
 | :------------------------------: | :----------------------------------------------------------- |
 | 1주차<br />(21.02.08 ~ 21.02.14) | 백준 1654 - [랜선 자르기](https://www.acmicpc.net/problem/1654) (Binary Search, Ternary Search)<br/>백준 1780 - [종이의 개수](https://www.acmicpc.net/problem/1780) (분할정복) |
-| 2주차<br />(21.02.15 ~ 21.02.21) | 백준 11729 - [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) (분할정복)<br />백준 11047 - [동전 0](https://www.acmicpc.net/problem/11047) (그리디)~ |
+| 2주차<br />(21.02.15 ~ 21.02.21) | 백준 11729 - [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) (분할정복)<br />백준 11047 - [동전 0](https://www.acmicpc.net/problem/11047) (그리디) |
 | 3주차<br />(21.02.22 ~ 21.02.28) | 백준 2873 - [롤러코스터](https://www.acmicpc.net/problem/2873) (그리디)<br />백준 1107 - [리모컨](https://www.acmicpc.net/problem/1107) (브루트포스) |
 | 4주차<br />(21.03.01 ~ 21.03.07) | 백준 1451 - [직사각형으로 나누기](https://www.acmicpc.net/problem/1451) (브루트포스)<br />백준 2186 - [문자판](https://www.acmicpc.net/problem/2186) (브루트포스) |
 | 5주차<br />(21.03.08 ~ 21.03.14) | 백준 3108 - [로고](https://www.acmicpc.net/problem/3108) (브루트포스)<br />백준 1644 - [소수의 연속합](https://www.acmicpc.net/problem/1644) (브루트포스) |
