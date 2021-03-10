@@ -5,35 +5,29 @@
 #define INF 10000000
 using namespace std;
 
-int cost[MAX][MAX]; // ë‘ ì§€ì  ì‚¬ì´ì˜ íƒì‹œìš”ê¸ˆ
-int d[MAX][MAX]; // ìµœì†Œ íƒì‹œìš”ê¸ˆ
+int d[MAX][MAX]; // µÎ ÁöÁ¡ »çÀÌÀÇ ÅÃ½Ã¿ä±İ
 
 int solution(int n, int s, int a, int b, vector<vector<int>> fares) 
 {
-    // cost, d ë°°ì—´ ì´ˆê¸°í™”
+    // d ¹è¿­ ÃÊ±âÈ­
     for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= n; j++) {
-            if (i != j) {
-                cost[i][j] = INF;
+            if (i != j)
                 d[i][j] = INF;
-            }
         }
     }
 
-    // ë‘ ì§€ì  ì‚¬ì´ì˜ íƒì‹œìš”ê¸ˆ ì €ì¥
+    // µÎ ÁöÁ¡ »çÀÌÀÇ ÅÃ½Ã¿ä±İ ÀúÀå
     for (int i = 0; i < fares.size(); i++) {
         int u = fares[i][0];
         int v = fares[i][1];
         int c = fares[i][2];
 
-        cost[u][v] = c;
-        cost[v][u] = c;
-
         d[u][v] = c;
         d[v][u] = c;
     }
 
-    // ê° ì§€ì ê°„ì˜ ìµœì†Œ íƒì‹œìš”ê¸ˆ ê³„ì‚°
+    // °¢ ÁöÁ¡°£ÀÇ ÃÖ¼Ò ÅÃ½Ã¿ä±İ °è»ê
     for (int k = 1; k <= n; k++) {
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n; j++) {
@@ -45,7 +39,7 @@ int solution(int n, int s, int a, int b, vector<vector<int>> fares)
 
     int answer = INF;
 
-    // ìµœì € íƒì‹œìš”ê¸ˆ ê³„ì‚°
+    // ÃÖÀú ÅÃ½Ã¿ä±İ °è»ê
     for (int k = 1; k <= n; k++) {
         answer = min(answer, d[s][k] + d[k][a] + d[k][b]);
     }
