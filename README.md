@@ -77,7 +77,7 @@
 | 2주차<br />(21.02.15 ~ 21.02.21) | ~백준 12851 [숨바꼭질 2](https://www.acmicpc.net/problem/12851)~<br />~백준 16958 [텔레포트](https://www.acmicpc.net/problem/16958)~ |
 | 3주차<br />(21.02.22 ~ 21.02.28) | 1\. [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)   <br/>~2\. [프로그래머스 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)~ |
 | 4주차<br />(21.03.01 ~ 21.03.07) | ~1\. [백준 18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)~   <br/>~2\. [백준 14502 연구소](https://www.acmicpc.net/problem/14502)~ |
-| 5주차<br />(21.03.08 ~ 21.03.14) |1\. [백준 14888 연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)   <br>2\. [백준 18428 감시 피하기](https://www.acmicpc.net/problem/18428)   <br>3\. [백준 16234 인구이동](https://www.acmicpc.net/problem/16234)   <br>4\. [백준 60063 블록 이동하기](https://www.acmicpc.net/problem/60063)   <br>5\. [주사위 게임](https://www.acmicpc.net/problem/5566)   <br>6\. [나는 너가 살아온 날을 알고 있다](https://www.acmicpc.net/problem/2139)   <br>7\. [크리스마스 선물](https://www.acmicpc.net/problem/14235)   <br>8\. [유턴 싫어](https://www.acmicpc.net/problem/2823)                                                           |
+| 5주차<br />(21.03.08 ~ 21.03.14) |~1\. [백준 14888 연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)~   <br>~2\. [백준 18428 감시 피하기](https://www.acmicpc.net/problem/18428)~   <br>~3\. [백준 16234 인구이동](https://www.acmicpc.net/problem/16234)~   <br>4\. [백준 60063 블록 이동하기](https://www.acmicpc.net/problem/60063)   <br>5\. [주사위 게임](https://www.acmicpc.net/problem/5566)   <br>6\. [나는 너가 살아온 날을 알고 있다](https://www.acmicpc.net/problem/2139)   <br>7\. [크리스마스 선물](https://www.acmicpc.net/problem/14235)   <br>8\. [유턴 싫어](https://www.acmicpc.net/problem/2823)                                                           |
 | 6주차<br />(21.03.15 ~ 21.03.21) |                                                              |
 | 7주차<br />(21.03.22 ~ 21.03.28) |                                                              |
 | 8주차<br />(21.03.29 ~ 21.04.04) |                                                              |
@@ -98,7 +98,7 @@
 | 2주차<br />(21.02.15 ~ 21.02.21) | ~1. 백준 2567 색종이2~<br/>~2. 백준 3040 백설공주와 일곱난쟁이~<br/>~3. SWEA 6808 규영이와 인영이의 카드게임~<br/>~5. 백준 2961 도영이가 만든 맛있는 음식~<br/>~7. JUNGOL 1828 냉장고~<br/>~8. 백준 2839 설탕배달~<br/>~10. 백준 15686 치킨배달~<br/>~11. 백준 1992 쿼트트리~<br/>~16. 백준 1987 알파벳~<br/>~17. 백준 2941 크로아티아 알파벳~<br/>~18. SWEA SW 문제해결응용 3일차 - 최적경로~ |
 | 3주차<br />(21.02.22 ~ 21.02.28) | ~2\. 프로그래머스 네트워크~<br/>~7\. 백준 2304 창고 다각형~<br/>~8\. 백준 9663 N-Queen~<br/>~11\. SWEA 4012 요리사~<br/>~12\. 백준 10142 줄세우기~<br/>~13\. 백준 2564 경비원~<br/>~14\. 백준 8320 직사각형을 만드는 방법~ |
 | 4주차<br />(21.03.01 ~ 21.03.07) | 1\. 백준 배열돌리기3<br/>2\. SWEA 프로세서 연결하기<br/>3\. SWEA 3234 준환이의 양팔저울<br/>~4\. 백준 17135 캐슬 디펜스~<br/>5\. 백준 3109 빵집<br/>6\. 백준 2615 오목<br/>7\. 백준 1074 Z<br/>~8\. 프로그래머스 SQL - GROUP BY~<br/>~9\. 프로그래머스 SQL - IS NULL~<br/>~10\. 프로그래머스 SQL - JOIN~<br/>~11\. 프로그래머스 SQL - String~ |
-| 5주차<br />(21.03.08 ~ 21.03.14) |                                                              |
+| 5주차<br />(21.03.08 ~ 21.03.14) | ~1\. 백준 11723 집합~<br/>~2\. 백준 15829 Hashing~<br/>~3\. 백준 9375 패션왕 신해빈~<br/>~4\. 백준 15657 N과 M(8)~<br/>~5\. 백준 15666 N과 M(12)~<br/>~6\. 백준 15650 N과 M(2)~<br/>                                                            |
 | 6주차<br />(21.03.15 ~ 21.03.21) |                                                              |
 | 7주차<br />(21.03.22 ~ 21.03.28) |                                                              |
 | 8주차<br />(21.03.29 ~ 21.04.04) |                                                              |
