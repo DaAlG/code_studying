@@ -78,7 +78,7 @@
 | 3주차<br />(21.02.22 ~ 21.02.28) | 1\. [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)   <br/>~2\. [프로그래머스 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)~ |
 | 4주차<br />(21.03.01 ~ 21.03.07) | ~1\. [백준 18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)~   <br/>~2\. [백준 14502 연구소](https://www.acmicpc.net/problem/14502)~ |
 | 5주차<br />(21.03.08 ~ 21.03.14) |~1\. [백준 14888 연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)~   <br>~2\. [백준 18428 감시 피하기](https://www.acmicpc.net/problem/18428)~   <br>~3\. [백준 16234 인구이동](https://www.acmicpc.net/problem/16234)~   <br>4\. [백준 60063 블록 이동하기](https://www.acmicpc.net/problem/60063)   <br>5\. [주사위 게임](https://www.acmicpc.net/problem/5566)   <br>6\. [나는 너가 살아온 날을 알고 있다](https://www.acmicpc.net/problem/2139)   <br>7\. [크리스마스 선물](https://www.acmicpc.net/problem/14235)   <br>8\. [유턴 싫어](https://www.acmicpc.net/problem/2823)                                                           |
-| 6주차<br />(21.03.15 ~ 21.03.21) |                                                              |
+| 6주차<br />(21.03.15 ~ 21.03.21) |1\. 백준 10825 - [국영수](https://www.acmicpc.net/problem/10825)   2\. 백준 18310 - [안테나](https://www.acmicpc.net/problem/18310)   3\. 백준 42889 - [실패율](https://www.acmicpc.net/problem/42889)   4\. 백준 1715 - [카드 정렬하기](https://www.acmicpc.net/problem/1715)   5\. 정렬된 배열에서 특정 개수 구하기   6\. 고정점 찾기   7\. 백준 2110 - 공유기 설치(https://www.acmicpc.net/problem/2110)   8\. 백준 600060 - (https://www.acmicpc.net/problem/60060)                                                    |
 | 7주차<br />(21.03.22 ~ 21.03.28) |                                                              |
 | 8주차<br />(21.03.29 ~ 21.04.04) |                                                              |
 
