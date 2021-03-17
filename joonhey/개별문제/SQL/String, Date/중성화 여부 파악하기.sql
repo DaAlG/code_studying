@@ -1,0 +1,8 @@
+-- SUBSTRING(string, start, length)
+SELECT ANIMAL_ID, NAME, 
+CASE SUBSTRING(SEX_UPON_INTAKE,1,6)
+    WHEN 'Intact' THEN 'X'
+    ELSE 'O'
+    END
+AS 중성화
+FROM ANIMAL_INS;
