@@ -1,4 +1,4 @@
-//ÇÃ·ÎÀÌµå ¿Í¼£ ¾Ë°í¸®Áò: ¸ğµç Á¤Á¡¿¡¼­ ¸ğµç Á¤Á¡À¸·Î °Å¸® ±¸ÇÒ¶§!
+//í”Œë¡œì´ë“œ ì™€ìƒ¬ ì•Œê³ ë¦¬ì¦˜: ëª¨ë“  ì •ì ì—ì„œ ëª¨ë“  ì •ì ìœ¼ë¡œ ê±°ë¦¬ êµ¬í• ë•Œ!
 using namespace std;
 #include <iostream>
 #include <vector>
@@ -8,7 +8,7 @@ using namespace std;
 
 int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
 	int answer = INF;
-	//°á°ú ±×·¡ÇÁ, map ÃÊ±âÈ­
+	//ê²°ê³¼ ê·¸ë˜í”„, map ì´ˆê¸°í™”
 	int d[201][201];
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
@@ -23,11 +23,11 @@ int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
 		d[fares[i][1]][fares[i][0]] = fares[i][2];
 	}
 
-	// k = °ÅÃÄ°¡´Â ³ëµå
+	// k = ê±°ì³ê°€ëŠ” ë…¸ë“œ
 	for (int k = 1; k <= n; k++) {
-		// i = Ãâ¹ß ³ëµå
+		// i = ì¶œë°œ ë…¸ë“œ
 		for (int i = 1; i <= n; i++) {
-			// j = µµÂø ³ëµå
+			// j = ë„ì°© ë…¸ë“œ
 			for (int j = 1; j <= n; j++) {
 				if (d[i][k] + d[k][j] < d[i][j]) {
 					d[i][j] = d[i][k] + d[k][j];
