@@ -43,7 +43,6 @@
 
 <details markdown="1">
 <summary><strong>&#128193; 재영</strong></summary>
-
 📕  알고리즘/C++ 정리 요약:  https://www.notion.so/C-4be12fdb389f41e8bbf46a4e7bde52c0 <br />
 📗  알고리즘 상세:  https://www.notion.so/022648dc340b4e8c95472996a91920a1 <br />
 📘  C++ 상세:  https://www.notion.so/C-add01ac9a89a497d8a45e364120add74 <br />
@@ -73,7 +72,7 @@
 | 3주차<br />(21.02.22 ~ 21.02.28) | 1\. [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)   <br/>~2\. [프로그래머스 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)~ |
 | 4주차<br />(21.03.01 ~ 21.03.07) | ~1\. [백준 18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)~   <br/>~2\. [백준 14502 연구소](https://www.acmicpc.net/problem/14502)~ |
 | 5주차<br />(21.03.08 ~ 21.03.14) |~1\. [백준 14888 연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)~   <br>~2\. [백준 18428 감시 피하기](https://www.acmicpc.net/problem/18428)~   <br>~3\. [백준 16234 인구이동](https://www.acmicpc.net/problem/16234)~   <br>4\. [백준 60063 블록 이동하기](https://www.acmicpc.net/problem/60063)   <br>5\. ~[주사위 게임](https://www.acmicpc.net/problem/5566)~   <br>~6\. [나는 너가 살아온 날을 알고 있다](https://www.acmicpc.net/problem/2139)~   <br>~7\. [크리스마스 선물](https://www.acmicpc.net/problem/14235)~   <br>8\. [유턴 싫어](https://www.acmicpc.net/problem/2823)                                                           |
-| 6주차<br />(21.03.15 ~ 21.03.21) |1\. 백준 10825 - [국영수](https://www.acmicpc.net/problem/10825)   <br>2\. 백준 18310 - [안테나](https://www.acmicpc.net/problem/18310)   <br>3\. 백준 42889 - [실패율](https://www.acmicpc.net/problem/42889)   <br>4\. 백준 1715 - [카드 정렬하기](https://www.acmicpc.net/problem/1715)   <br>5\. 정렬된 배열에서 특정 개수 구하기   <br>6\. 고정점 찾기   <br>7\. 백준 2110 - [공유기 설치](https://www.acmicpc.net/problem/2110)   <br>8\. 백준 600060 - [가사검색](https://www.acmicpc.net/problem/60060)                                                    |
+| 6주차<br />(21.03.15 ~ 21.03.21) |~1\. 백준 10825 - [국영수](https://www.acmicpc.net/problem/10825)~   <br>~2\. 백준 18310 - [안테나](https://www.acmicpc.net/problem/18310)~   <br>3\. 프로그래머스 42889 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)   <br>4\. 백준 1715 - [카드 정렬하기](https://www.acmicpc.net/problem/1715)   <br>5\. 정렬된 배열에서 특정 개수 구하기   <br>6\. 고정점 찾기   <br>7\. 백준 2110 - [공유기 설치](https://www.acmicpc.net/problem/2110)   <br>8\. 백준 600060 - [가사검색](https://www.acmicpc.net/problem/60060)                                                    |
 | 7주차<br />(21.03.22 ~ 21.03.28) |                                                              |
 | 8주차<br />(21.03.29 ~ 21.04.04) |                                                              |
 
@@ -93,7 +92,7 @@
 | 2주차<br />(21.02.15 ~ 21.02.21) | ~1. 백준 2567 색종이2~<br/>~2. 백준 3040 백설공주와 일곱난쟁이~<br/>~3. SWEA 6808 규영이와 인영이의 카드게임~<br/>~5. 백준 2961 도영이가 만든 맛있는 음식~<br/>~7. JUNGOL 1828 냉장고~<br/>~8. 백준 2839 설탕배달~<br/>~10. 백준 15686 치킨배달~<br/>~11. 백준 1992 쿼트트리~<br/>~16. 백준 1987 알파벳~<br/>~17. 백준 2941 크로아티아 알파벳~<br/>~18. SWEA SW 문제해결응용 3일차 - 최적경로~ |
 | 3주차<br />(21.02.22 ~ 21.02.28) | ~2\. 프로그래머스 네트워크~<br/>~7\. 백준 2304 창고 다각형~<br/>~8\. 백준 9663 N-Queen~<br/>~11\. SWEA 4012 요리사~<br/>~12\. 백준 10142 줄세우기~<br/>~13\. 백준 2564 경비원~<br/>~14\. 백준 8320 직사각형을 만드는 방법~ |
 | 4주차<br />(21.03.01 ~ 21.03.07) | 1\. 백준 배열돌리기3<br/>2\. SWEA 프로세서 연결하기<br/>3\. SWEA 3234 준환이의 양팔저울<br/>~4\. 백준 17135 캐슬 디펜스~<br/>5\. 백준 3109 빵집<br/>6\. 백준 2615 오목<br/>7\. 백준 1074 Z<br/>~8\. 프로그래머스 SQL - GROUP BY~<br/>~9\. 프로그래머스 SQL - IS NULL~<br/>~10\. 프로그래머스 SQL - JOIN~<br/>~11\. 프로그래머스 SQL - String~ |
-| 5주차<br />(21.03.08 ~ 21.03.14) | ~1\. 백준 11723 집합~<br/>~2\. 백준 15829 Hashing~<br/>~3\. 백준 9375 패션왕 신해빈~<br/>~4\. 백준 15657 N과 M(8)~<br/>~5\. 백준 15666 N과 M(12)~<br/>~6\. 백준 15650 N과 M(2)~<br/>                                                            |
+| 5주차<br />(21.03.08 ~ 21.03.14) | ~1\. 백준 11723 집합~<br/>~2\. 백준 15829 Hashing~<br/>~3\. 백준 9375 패션왕 신해빈~<br/>~4\. 백준 15657 N과 M(8)~<br/>~5\. 백준 15666 N과 M(12)~<br/>~6\. 백준 15650 N과 M(2)~<br/> ~7\. 백준 15663 N과 M(9)~<br/> ~8\. 백준 11721 열개씩 끊어 출력하기~<br/> ~9\. 백준 18111 마인크래프트~<br/>                            |
 | 6주차<br />(21.03.15 ~ 21.03.21) |                                                              |
 | 7주차<br />(21.03.22 ~ 21.03.28) |                                                              |
 | 8주차<br />(21.03.29 ~ 21.04.04) |                                                              |
@@ -108,16 +107,14 @@
 <summary><strong>&#128193; 지현</strong></summary>
 
 
-|                                  | 문제                                                         |
-| :------------------------------: | :----------------------------------------------------------- |
-| 1주차<br />(21.02.08 ~ 21.02.14) | 백준 1654 - [랜선 자르기](https://www.acmicpc.net/problem/1654) (Binary Search, Ternary Search)<br/>백준 1780 - [종이의 개수](https://www.acmicpc.net/problem/1780) (분할정복) |
-| 2주차<br />(21.02.15 ~ 21.02.21) | 백준 11729 - [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) (분할정복)<br />백준 11047 - [동전 0](https://www.acmicpc.net/problem/11047) (그리디) |
-| 3주차<br />(21.02.22 ~ 21.02.28) | 백준 2873 - [롤러코스터](https://www.acmicpc.net/problem/2873) (그리디)<br />백준 1107 - [리모컨](https://www.acmicpc.net/problem/1107) (브루트포스) |
-| 4주차<br />(21.03.01 ~ 21.03.07) | 백준 1451 - [직사각형으로 나누기](https://www.acmicpc.net/problem/1451) (브루트포스)<br />백준 2186 - [문자판](https://www.acmicpc.net/problem/2186) (브루트포스) |
-| 5주차<br />(21.03.08 ~ 21.03.14) | 백준 3108 - [로고](https://www.acmicpc.net/problem/3108) (브루트포스)<br />백준 1644 - [소수의 연속합](https://www.acmicpc.net/problem/1644) (브루트포스) |
-| 6주차<br />(21.03.15 ~ 21.03.21) |                                                              |
-| 7주차<br />(21.03.22 ~ 21.03.28) |                                                              |
-| 8주차<br />(21.03.29 ~ 21.04.04) |                                                              |
+
+
+|                                    | 문제                                                         |
+| :--------------------------------: | :----------------------------------------------------------- |
+| ~ 5주차<br />(21.01.19 ~ 21.03.14) | [BOJ - Basic Problem Solving](https://github.com/wjh51333/Problem-Solving) |
+|  6주차<br />(21.03.15 ~ 21.03.21)  | 백준 14500 - [테트로미노](https://www.acmicpc.net/problem/14500) <br />백준 10972 - [다음 순열](https://www.acmicpc.net/problem/10972)<br />백준 10973 - [이전 순열](https://www.acmicpc.net/problem/10973)<br />백준 10974 - [모든 순열](https://www.acmicpc.net/problem/10974)<br />백준 14888 - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)<br />백준 15658 - [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658)<br />백준 11723 - [집합](https://www.acmicpc.net/problem/11723)<br />백준 2309 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)<br />백준 13023 - [ABCDE](https://www.acmicpc.net/problem/13023)<br />백준 14226 - [이모티콘](https://www.acmicpc.net/problem/14226)<br />백준 13549 - [숨바꼭질 3](https://www.acmicpc.net/problem/13549)<br />백준 2206 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)<br />백준 3055 - [탈출](https://www.acmicpc.net/problem/3055)<br />프로그래머스 SQL [SUM, MAX, MIN](https://programmers.co.kr/learn/courses/30/parts/17043)<br />프로그래머스 SQL [IS NULL](https://programmers.co.kr/learn/courses/30/parts/17045) |
+|  7주차<br />(21.03.22 ~ 21.03.28)  |                                                              |
+|  8주차<br />(21.03.29 ~ 21.04.04)  |                                                              |
 
 ------
 
