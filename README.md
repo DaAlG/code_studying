@@ -9,16 +9,20 @@
 
 ## 📅 Schedule
 
-|                                  |                              1                               |                              2                               |
-| :------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 1주차<br />(21.02.08 ~ 21.02.14) | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) |
-| 2주차<br />(21.02.15 ~ 21.02.21) | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |
-| 3주차<br />(21.02.22 ~ 21.02.28) |          [뱀](https://www.acmicpc.net/problem/3190)          | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |
-| 4주차<br />(21.03.01 ~ 21.03.07) | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |
-| 5주차<br />(21.03.08 ~ 21.03.14) | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |
-| 6주차<br />(21.03.15 ~ 21.03.21) | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |
-| 7주차<br />(21.03.22 ~ 21.03.28) | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |
-| 8주차<br />(21.03.29 ~ 21.04.04) | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) |        [퇴사](https://www.acmicpc.net/problem/14501)         |
+|                                   |                              1                               | 2    |                              3                               | 4    |
+| :-------------------------------: | :----------------------------------------------------------: | ---- | :----------------------------------------------------------: | ---- |
+| 1주차<br />(21.02.08 ~ 21.02.14)  | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |      | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) |      |
+| 2주차<br />(21.02.15 ~ 21.02.21)  | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) |      | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |      |
+| 3주차<br />(21.02.22 ~ 21.02.28)  |          [뱀](https://www.acmicpc.net/problem/3190)          |      | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |      |
+| 4주차<br />(21.03.01 ~ 21.03.07)  | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |      |
+| 5주차<br />(21.03.08 ~ 21.03.14)  | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) |      |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |      |
+| 6주차<br />(21.03.15 ~ 21.03.21)  | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |      | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |      |
+| 7주차<br />(21.03.22 ~ 21.03.28)  | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |      | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |      |
+| 8주차<br />(21.03.29 ~ 21.04.04)  | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) |      |        [퇴사](https://www.acmicpc.net/problem/14501)         |      |
+| 9주차<br />(21.04.05 ~ 21.04.11)  |                                                              |      |                                                              |      |
+| 10주차<br />(21.04.12 ~ 21.04.18) |                                                              |      |                                                              |      |
+| 11주차<br />(21.04.19 ~ 21.04.25) |                                                              |      |                                                              |      |
+| 12주차<br />(21.04.26 ~ 21.05.02) |                                                              |      |                                                              |      |
 
 
 
@@ -38,6 +42,10 @@
 | :------------------------------: | :----------------------------------------------------------- |
 | 0주차~<br />(21.01.07 ~ ) | 1\. ~C++기초 빌드업용 코드업 기본 100제 풀이~<br> 2\. 백준, 프로그래머스 알고리즘 문제(상단 코드리뷰 노션 페이지 참고)|
 | 8주차~<br />(21.03.29 ~ ) | 1\. 프로그래머스 SQL 문제 |
+| 9주차<br />(21.04.05 ~ 21.04.11) |  |
+| 10주차<br />(21.04.12 ~ 21.04.18) |  |
+| 11주차<br />(21.04.19 ~ 21.04.25) |  |
+| 12주차<br />(21.04.26 ~ 21.05.02) |  |
 
 ------
 
@@ -49,16 +57,20 @@
 <summary><strong>&#128193; 서진</strong></summary>
 
 
-|                                  | 문제                                                         |
-| :------------------------------: | :----------------------------------------------------------- |
-| 1주차<br />(21.02.08 ~ 21.02.14) | ~[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)~<br />~[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)~ |
-| 2주차<br />(21.02.15 ~ 21.02.21) | ~백준 12851 [숨바꼭질 2](https://www.acmicpc.net/problem/12851)~<br />~백준 16958 [텔레포트](https://www.acmicpc.net/problem/16958)~ |
-| 3주차<br />(21.02.22 ~ 21.02.28) | 1\. [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)   <br/>~2\. [프로그래머스 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)~ |
-| 4주차<br />(21.03.01 ~ 21.03.07) | ~1\. [백준 18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)~   <br/>~2\. [백준 14502 연구소](https://www.acmicpc.net/problem/14502)~ |
-| 5주차<br />(21.03.08 ~ 21.03.14) |~1\. [백준 14888 연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)~   <br>~2\. [백준 18428 감시 피하기](https://www.acmicpc.net/problem/18428)~   <br>~3\. [백준 16234 인구이동](https://www.acmicpc.net/problem/16234)~   <br>4\. [백준 60063 블록 이동하기](https://www.acmicpc.net/problem/60063)   <br>5\. ~[주사위 게임](https://www.acmicpc.net/problem/5566)~   <br>~6\. [나는 너가 살아온 날을 알고 있다](https://www.acmicpc.net/problem/2139)~   <br>~7\. [크리스마스 선물](https://www.acmicpc.net/problem/14235)~   <br>8\. [유턴 싫어](https://www.acmicpc.net/problem/2823)                                                           |
-| 6주차<br />(21.03.15 ~ 21.03.21) |~1\. 백준 10825 - [국영수](https://www.acmicpc.net/problem/10825)~   <br>~2\. 백준 18310 - [안테나](https://www.acmicpc.net/problem/18310)~   <br> ~3\. 프로그래머스 42889 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)~   <br>~4\. 백준 1715 - [카드 정렬하기](https://www.acmicpc.net/problem/1715)~   <br> |
-| 7주차<br />(21.03.22 ~ 21.03.28) | ~1\. 백준 2110 - [공유기 설치](https://www.acmicpc.net/problem/2110)<br>~                                                                   |
-| 8주차<br />(21.03.29 ~ 21.04.04) | 1\. 프로그래머스 60060 - [가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060)   <br>~2\. 백준 1932 - [정수 삼각형](https://www.acmicpc.net/problem/1932)~   <br>~3\. 백준 14501 - [퇴사](https://www.acmicpc.net/problem/14501)~   <br>~4\. 백준 18353 - [병사 배치하기](https://www.acmicpc.net/problem/18353)~   <br>5\. 백준 11404 - [플로이드](https://www.acmicpc.net/problem/11404)   <br>                                       |
+|                                   | 문제                                                         |
+| :-------------------------------: | :----------------------------------------------------------- |
+| 1주차<br />(21.02.08 ~ 21.02.14)  | ~[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)~<br />~[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)~ |
+| 2주차<br />(21.02.15 ~ 21.02.21)  | ~백준 12851 [숨바꼭질 2](https://www.acmicpc.net/problem/12851)~<br />~백준 16958 [텔레포트](https://www.acmicpc.net/problem/16958)~ |
+| 3주차<br />(21.02.22 ~ 21.02.28)  | 1\. [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)   <br/>~2\. [프로그래머스 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)~ |
+| 4주차<br />(21.03.01 ~ 21.03.07)  | ~1\. [백준 18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)~   <br/>~2\. [백준 14502 연구소](https://www.acmicpc.net/problem/14502)~ |
+| 5주차<br />(21.03.08 ~ 21.03.14)  | ~1\. [백준 14888 연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)~   <br>~2\. [백준 18428 감시 피하기](https://www.acmicpc.net/problem/18428)~   <br>~3\. [백준 16234 인구이동](https://www.acmicpc.net/problem/16234)~   <br>4\. [백준 60063 블록 이동하기](https://www.acmicpc.net/problem/60063)   <br>5\. ~[주사위 게임](https://www.acmicpc.net/problem/5566)~   <br>~6\. [나는 너가 살아온 날을 알고 있다](https://www.acmicpc.net/problem/2139)~   <br>~7\. [크리스마스 선물](https://www.acmicpc.net/problem/14235)~   <br>8\. [유턴 싫어](https://www.acmicpc.net/problem/2823) |
+| 6주차<br />(21.03.15 ~ 21.03.21)  | ~1\. 백준 10825 - [국영수](https://www.acmicpc.net/problem/10825)~   <br>~2\. 백준 18310 - [안테나](https://www.acmicpc.net/problem/18310)~   <br> ~3\. 프로그래머스 42889 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)~   <br>~4\. 백준 1715 - [카드 정렬하기](https://www.acmicpc.net/problem/1715)~   <br> |
+| 7주차<br />(21.03.22 ~ 21.03.28)  | ~1\. 백준 2110 - [공유기 설치](https://www.acmicpc.net/problem/2110)<br>~ |
+| 8주차<br />(21.03.29 ~ 21.04.04)  | 1\. 프로그래머스 60060 - [가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060)   <br>~2\. 백준 1932 - [정수 삼각형](https://www.acmicpc.net/problem/1932)~   <br>~3\. 백준 14501 - [퇴사](https://www.acmicpc.net/problem/14501)~   <br>~4\. 백준 18353 - [병사 배치하기](https://www.acmicpc.net/problem/18353)~   <br>5\. 백준 11404 - [플로이드](https://www.acmicpc.net/problem/11404)   <br> |
+| 9주차<br />(21.04.05 ~ 21.04.11)  |                                                              |
+| 10주차<br />(21.04.12 ~ 21.04.18) |                                                              |
+| 11주차<br />(21.04.19 ~ 21.04.25) |                                                              |
+| 12주차<br />(21.04.26 ~ 21.05.02) |                                                              |
 
 ------
 
@@ -70,16 +82,20 @@
 <summary><strong>&#128193; 준희</strong></summary>
 
 
-|                                  | 문제                                                         |
-| :------------------------------: | :----------------------------------------------------------- |
-| 1주차<br />(21.02.08 ~ 21.02.14) | ~1. 백준 17413 단어뒤집기2~<br/>~2. SWEA 9229 한빈이와 Spot Mart~<br/>~3. 백준 16926 배열돌리기1~<br/>~4. 백준 2563 색종이~<br/>~5. 백준 1158 요세푸스 문제~<br/>~6. SWEA S/W 문제 해결 기본 9일차-사칙연산 유효성검사~<br/>~7. 백준 20299 3대 측정~<br/>~8. SWEA S/W 문제 해결 기본 5일차-Magnetic~<br/>~9. SWEA S/W 문제 해결 기본 8일차-암호문1~<br/>~10. SWEA 5215 햄버거 다이어트~<br/>~11. SWEA 7964 부먹왕국의 차원관문~<br/>~12. SWEA 6485 삼성시의 버스노선~<br/>~13. SWEA 5365 의석이의 세로로 말해요~<br/>~14. SWEA 4789 성공적인 공연기획~<br/>~15. 백준 1592 영식이와 친구들~<br/>~16. SWEA 4698 테네스의 특별한 소수~<br/>~17. 백준 2309 일곱난쟁이~<br/>~18. 백준 2605 줄세우기~<br/>~19. 백준 2578 빙고~ |
-| 2주차<br />(21.02.15 ~ 21.02.21) | ~1. 백준 2567 색종이2~<br/>~2. 백준 3040 백설공주와 일곱난쟁이~<br/>~3. SWEA 6808 규영이와 인영이의 카드게임~<br/>~5. 백준 2961 도영이가 만든 맛있는 음식~<br/>~7. JUNGOL 1828 냉장고~<br/>~8. 백준 2839 설탕배달~<br/>~10. 백준 15686 치킨배달~<br/>~11. 백준 1992 쿼트트리~<br/>~16. 백준 1987 알파벳~<br/>~17. 백준 2941 크로아티아 알파벳~<br/>~18. SWEA SW 문제해결응용 3일차 - 최적경로~ |
-| 3주차<br />(21.02.22 ~ 21.02.28) | ~2\. 프로그래머스 네트워크~<br/>~7\. 백준 2304 창고 다각형~<br/>~8\. 백준 9663 N-Queen~<br/>~11\. SWEA 4012 요리사~<br/>~12\. 백준 10142 줄세우기~<br/>~13\. 백준 2564 경비원~<br/>~14\. 백준 8320 직사각형을 만드는 방법~ |
-| 4주차<br />(21.03.01 ~ 21.03.07) | 1\. 백준 배열돌리기3<br/>~2\. SWEA 프로세서 연결하기~<br/>3\. SWEA 3234 준환이의 양팔저울<br/>~4\. 백준 17135 캐슬 디펜스~<br/>5\. 백준 3109 빵집<br/>6\. 백준 2615 오목<br/>7\. 백준 1074 Z<br/>~8\. 프로그래머스 SQL - GROUP BY~<br/>~9\. 프로그래머스 SQL - IS NULL~<br/>~10\. 프로그래머스 SQL - JOIN~<br/>~11\. 프로그래머스 SQL - String~ |
-| 5주차<br />(21.03.08 ~ 21.03.14) | ~1\. 백준 11723 집합~<br/>~2\. 백준 15829 Hashing~<br/>~3\. 백준 9375 패션왕 신해빈~<br/>~4\. 백준 15657 N과 M(8)~<br/>~5\. 백준 15666 N과 M(12)~<br/>~6\. 백준 15650 N과 M(2)~<br/> ~7\. 백준 15663 N과 M(9)~<br/> ~8\. 백준 11721 열개씩 끊어 출력하기~<br/> ~9\. 백준 18111 마인크래프트~<br/>                            |
-| 6주차<br />(21.03.15 ~ 21.03.21) | ~1\. 백준 1260 BFS와 DFS~<br/>~2\. 백준 1759 암호 만들기~<br/>~3\. 백준 14889 스타트와 링크~<br/>~4\. SWEA 1767 프로세서 연결하기~<br/>~5\. SWEA 7465 창용 마을 무리의 개수~<br/>~6\. SWEA 3289 서로소 집합~<br/> ~7\. 프로그래머스 소수찾기~<br/>                            |
-| 7주차<br />(21.03.22 ~ 21.03.28) | ~1\. 백준 1463 1로 만들기~ <br/> 2\. 백준 최적경로<br/> 3\. 백준 1149 RGB 거리 <br/> 4\. 정올 1687 해밀턴순환회로<br/> 5\. 백준 사다리 조작<br/> 6\. 백준 경사로<br/>  7\. 백준 배열돌리기 4<br/> 8\. 백준 1600 말이 되고픈 원숭이<br/> ~9\. SWEA 하나로~<br/> ~10\. 백준 2636 치즈~<br/>            |
-| 8주차<br />(21.03.29 ~ 21.04.04) |                                                              |
+|                                   | 문제                                                         |
+| :-------------------------------: | :----------------------------------------------------------- |
+| 1주차<br />(21.02.08 ~ 21.02.14)  | ~1. 백준 17413 단어뒤집기2~<br/>~2. SWEA 9229 한빈이와 Spot Mart~<br/>~3. 백준 16926 배열돌리기1~<br/>~4. 백준 2563 색종이~<br/>~5. 백준 1158 요세푸스 문제~<br/>~6. SWEA S/W 문제 해결 기본 9일차-사칙연산 유효성검사~<br/>~7. 백준 20299 3대 측정~<br/>~8. SWEA S/W 문제 해결 기본 5일차-Magnetic~<br/>~9. SWEA S/W 문제 해결 기본 8일차-암호문1~<br/>~10. SWEA 5215 햄버거 다이어트~<br/>~11. SWEA 7964 부먹왕국의 차원관문~<br/>~12. SWEA 6485 삼성시의 버스노선~<br/>~13. SWEA 5365 의석이의 세로로 말해요~<br/>~14. SWEA 4789 성공적인 공연기획~<br/>~15. 백준 1592 영식이와 친구들~<br/>~16. SWEA 4698 테네스의 특별한 소수~<br/>~17. 백준 2309 일곱난쟁이~<br/>~18. 백준 2605 줄세우기~<br/>~19. 백준 2578 빙고~ |
+| 2주차<br />(21.02.15 ~ 21.02.21)  | ~1. 백준 2567 색종이2~<br/>~2. 백준 3040 백설공주와 일곱난쟁이~<br/>~3. SWEA 6808 규영이와 인영이의 카드게임~<br/>~5. 백준 2961 도영이가 만든 맛있는 음식~<br/>~7. JUNGOL 1828 냉장고~<br/>~8. 백준 2839 설탕배달~<br/>~10. 백준 15686 치킨배달~<br/>~11. 백준 1992 쿼트트리~<br/>~16. 백준 1987 알파벳~<br/>~17. 백준 2941 크로아티아 알파벳~<br/>~18. SWEA SW 문제해결응용 3일차 - 최적경로~ |
+| 3주차<br />(21.02.22 ~ 21.02.28)  | ~2\. 프로그래머스 네트워크~<br/>~7\. 백준 2304 창고 다각형~<br/>~8\. 백준 9663 N-Queen~<br/>~11\. SWEA 4012 요리사~<br/>~12\. 백준 10142 줄세우기~<br/>~13\. 백준 2564 경비원~<br/>~14\. 백준 8320 직사각형을 만드는 방법~ |
+| 4주차<br />(21.03.01 ~ 21.03.07)  | 1\. 백준 배열돌리기3<br/>~2\. SWEA 프로세서 연결하기~<br/>3\. SWEA 3234 준환이의 양팔저울<br/>~4\. 백준 17135 캐슬 디펜스~<br/>5\. 백준 3109 빵집<br/>6\. 백준 2615 오목<br/>7\. 백준 1074 Z<br/>~8\. 프로그래머스 SQL - GROUP BY~<br/>~9\. 프로그래머스 SQL - IS NULL~<br/>~10\. 프로그래머스 SQL - JOIN~<br/>~11\. 프로그래머스 SQL - String~ |
+| 5주차<br />(21.03.08 ~ 21.03.14)  | ~1\. 백준 11723 집합~<br/>~2\. 백준 15829 Hashing~<br/>~3\. 백준 9375 패션왕 신해빈~<br/>~4\. 백준 15657 N과 M(8)~<br/>~5\. 백준 15666 N과 M(12)~<br/>~6\. 백준 15650 N과 M(2)~<br/> ~7\. 백준 15663 N과 M(9)~<br/> ~8\. 백준 11721 열개씩 끊어 출력하기~<br/> ~9\. 백준 18111 마인크래프트~<br/> |
+| 6주차<br />(21.03.15 ~ 21.03.21)  | ~1\. 백준 1260 BFS와 DFS~<br/>~2\. 백준 1759 암호 만들기~<br/>~3\. 백준 14889 스타트와 링크~<br/>~4\. SWEA 1767 프로세서 연결하기~<br/>~5\. SWEA 7465 창용 마을 무리의 개수~<br/>~6\. SWEA 3289 서로소 집합~<br/> ~7\. 프로그래머스 소수찾기~<br/> |
+| 7주차<br />(21.03.22 ~ 21.03.28)  | ~1\. 백준 1463 1로 만들기~ <br/> 2\. 백준 최적경로<br/> 3\. 백준 1149 RGB 거리 <br/> 4\. 정올 1687 해밀턴순환회로<br/> 5\. 백준 사다리 조작<br/> 6\. 백준 경사로<br/>  7\. 백준 배열돌리기 4<br/> 8\. 백준 1600 말이 되고픈 원숭이<br/> ~9\. SWEA 하나로~<br/> ~10\. 백준 2636 치즈~<br/> |
+| 8주차<br />(21.03.29 ~ 21.04.04)  |                                                              |
+| 9주차<br />(21.04.05 ~ 21.04.11)  |                                                              |
+| 10주차<br />(21.04.12 ~ 21.04.18) |                                                              |
+| 11주차<br />(21.04.19 ~ 21.04.25) |                                                              |
+| 12주차<br />(21.04.26 ~ 21.05.02) |                                                              |
 
 ------
 
@@ -98,7 +114,13 @@
 | ~ 5주차<br />(21.01.19 ~ 21.03.14) | [BOJ - Basic Problem Solving](https://github.com/wjh51333/Problem-Solving) |
 |  6주차<br />(21.03.15 ~ 21.03.21)  | 백준 14500 - [테트로미노](https://www.acmicpc.net/problem/14500) <br />백준 10972 - [다음 순열](https://www.acmicpc.net/problem/10972)<br />백준 10973 - [이전 순열](https://www.acmicpc.net/problem/10973)<br />백준 10974 - [모든 순열](https://www.acmicpc.net/problem/10974)<br />백준 14888 - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)<br />백준 15658 - [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658)<br />백준 11723 - [집합](https://www.acmicpc.net/problem/11723)<br />백준 2309 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)<br />백준 13023 - [ABCDE](https://www.acmicpc.net/problem/13023)<br />백준 14226 - [이모티콘](https://www.acmicpc.net/problem/14226)<br />백준 13549 - [숨바꼭질 3](https://www.acmicpc.net/problem/13549)<br />백준 2206 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)<br />백준 3055 - [탈출](https://www.acmicpc.net/problem/3055)<br />프로그래머스 SQL [SUM, MAX, MIN](https://programmers.co.kr/learn/courses/30/parts/17043)<br />프로그래머스 SQL [IS NULL](https://programmers.co.kr/learn/courses/30/parts/17045) |
 |  7주차<br />(21.03.22 ~ 21.03.28)  | 백준 15558 - [점프 게임](https://www.acmicpc.net/problem/15558)<br />백준 12851 - [숨바꼭질 2](https://www.acmicpc.net/problem/12851)<br />백준 13913 - [숨바꼭질 4](https://www.acmicpc.net/problem/13913)<br />백준 6087 - [레이저 통신](https://www.acmicpc.net/problem/6087) |
-|  8주차<br />(21.03.29 ~ 21.04.04)  | 백준 4991 - [로봇 청소기](https://www.acmicpc.net/problem/4991)<br />백준 9328 - [열쇠](https://www.acmicpc.net/problem/9328) |
+|  8주차<br />(21.03.29 ~ 21.04.04)  | 백준 15988 - [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)<br />백준 16194 - [카드 구매하기 2](https://www.acmicpc.net/problem/16194)<br />백준 15990 - [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)<br />백준 13398 - [연속합 2](https://www.acmicpc.net/problem/13398)<br />백준 14002- [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)<br />백준 1495 - [기타리스트](https://www.acmicpc.net/problem/1495)<br />백준 15989 - [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)<br />백준 11048 - [이동하기](https://www.acmicpc.net/problem/11048)<br />백준 14442 - [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)<br />백준 2293 - [동전 1](https://www.acmicpc.net/problem/2293)<br />백준 2294 - [동전 2](https://www.acmicpc.net/problem/2294)<br />백준 14889 - [스타트와 링크](https://www.acmicpc.net/problem/14889)<br />백준 1748 - [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)<br />백준 9663 - [N-Queen](https://www.acmicpc.net/problem/9663)<br />백준 17478 - [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)<br />백준 6064 - [카잉 달력](https://www.acmicpc.net/problem/6064)<br />백준 12026 - [BOJ 거리](https://www.acmicpc.net/problem/12026)<br />백준 4991 - [로봇 청소기](https://www.acmicpc.net/problem/4991)<br />백준 1339 - [단어 수학](https://www.acmicpc.net/problem/1339)<br />백준 1890 - [점프](https://www.acmicpc.net/problem/1890) |
+|  9주차<br />(21.04.05 ~ 21.04.11)  |                                                              |
+| 10주차<br />(21.04.12 ~ 21.04.18)  |                                                              |
+| 11주차<br />(21.04.19 ~ 21.04.25)  |                                                              |
+| 12주차<br />(21.04.26 ~ 21.05.02)  |                                                              |
+
+
 
 ------
 
@@ -154,6 +176,28 @@
 |   20056   |  마법사 상어와 파이어볼  | https://www.acmicpc.net/problem/20056 |
 |   20057   |  마법사 상어와 토네이도  | https://www.acmicpc.net/problem/20057 |
 |   20058   | 마법사 상어와 파이어스톰 | https://www.acmicpc.net/problem/20058 |
+
+------
+
+</details>
+
+<details markdown="1">
+<summary><strong>📄 프로그래머스 월간 코드 챌린지 시즌1</strong></summary>
+
+|         문제          | 레벨 |                           URL                            |
+| :-------------------: | :--: | :------------------------------------------------------: |
+|  두 개 뽑아서 더하기  |  1   | https://programmers.co.kr/learn/courses/30/lessons/68644 |
+|     3진법 뒤집기      |  1   | https://programmers.co.kr/learn/courses/30/lessons/68935 |
+|         내적          |  1   | https://programmers.co.kr/learn/courses/30/lessons/70128 |
+|      삼각 달팽이      |  2   | https://programmers.co.kr/learn/courses/30/lessons/68645 |
+| 쿼드압축 후 개수 세기 |  2   | https://programmers.co.kr/learn/courses/30/lessons/68936 |
+|  이진 변환 반복하기   |  2   | https://programmers.co.kr/learn/courses/30/lessons/70129 |
+|     풍선 터트리기     |  3   | https://programmers.co.kr/learn/courses/30/lessons/68646 |
+|       스타 수열       |  3   | https://programmers.co.kr/learn/courses/30/lessons/70130 |
+|     짝수 행 세기      |  4   | https://programmers.co.kr/learn/courses/30/lessons/68647 |
+|  트리 트리오 중간값   |  4   | https://programmers.co.kr/learn/courses/30/lessons/68937 |
+|   문자열의 아름다움   |  5   | https://programmers.co.kr/learn/courses/30/lessons/68938 |
+|    가짜 해밀토니안    |  5   | https://programmers.co.kr/learn/courses/30/lessons/70132 |
 
 ------
 
