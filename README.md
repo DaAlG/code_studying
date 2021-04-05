@@ -19,20 +19,20 @@
 
 ## 📅 Schedule
 
-|                                   |                              1                               | 2    |                              3                               | 4    |
-| :-------------------------------: | :----------------------------------------------------------: | ---- | :----------------------------------------------------------: | ---- |
-| 1주차<br />(21.02.08 ~ 21.02.14)  | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |      | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) |      |
-| 2주차<br />(21.02.15 ~ 21.02.21)  | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) |      | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |      |
-| 3주차<br />(21.02.22 ~ 21.02.28)  |          [뱀](https://www.acmicpc.net/problem/3190)          |      | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |      |
-| 4주차<br />(21.03.01 ~ 21.03.07)  | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |      | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |      |
-| 5주차<br />(21.03.08 ~ 21.03.14)  | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) |      |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |      |
-| 6주차<br />(21.03.15 ~ 21.03.21)  | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |      | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |      |
-| 7주차<br />(21.03.22 ~ 21.03.28)  | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |      | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |      |
-| 8주차<br />(21.03.29 ~ 21.04.04)  | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) |      |        [퇴사](https://www.acmicpc.net/problem/14501)         |      |
-| 9주차<br />(21.04.05 ~ 21.04.11)  |                                                              |      |                                                              |      |
-| 10주차<br />(21.04.12 ~ 21.04.18) |                                                              |      |                                                              |      |
-| 11주차<br />(21.04.19 ~ 21.04.25) |                                                              |      |                                                              |      |
-| 12주차<br />(21.04.26 ~ 21.05.02) |                                                              |      |                                                              |      |
+|                                   |                              1                               |                              2                               |
+| :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 1주차<br />(21.02.08 ~ 21.02.14)  | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) |
+| 2주차<br />(21.02.15 ~ 21.02.21)  | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |
+| 3주차<br />(21.02.22 ~ 21.02.28)  |          [뱀](https://www.acmicpc.net/problem/3190)          | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+| 4주차<br />(21.03.01 ~ 21.03.07)  | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |
+| 5주차<br />(21.03.08 ~ 21.03.14)  | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |
+| 6주차<br />(21.03.15 ~ 21.03.21)  | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |
+| 7주차<br />(21.03.22 ~ 21.03.28)  | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |
+| 8주차<br />(21.03.29 ~ 21.04.04)  | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) |        [퇴사](https://www.acmicpc.net/problem/14501)         |
+| 9주차<br />(21.04.05 ~ 21.04.11)  | [짝수 행 세기](https://programmers.co.kr/learn/courses/30/lessons/68647) |     [경쟁적 전염](https://www.acmicpc.net/problem/18405)     |
+| 10주차<br />(21.04.12 ~ 21.04.18) |        [트럭](https://www.acmicpc.net/problem/13335)         | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) |
+| 11주차<br />(21.04.19 ~ 21.04.25) | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |    [병사 배치하기](https://www.acmicpc.net/problem/18353)    |
+| 12주차<br />(21.04.26 ~ 21.05.02) |      [무기 공학](https://www.acmicpc.net/problem/18430)      | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |
 
 ------
 
