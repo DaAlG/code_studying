@@ -25,6 +25,8 @@ int main()
 	dp[2] = 7;
 
 	for (int i = 3; i <= n; i++) {
+		// 마지막 줄에 사자 배치 -> dp[i - 1] + dp[i - 2] * 2
+		// 마지막 줄에 사자 배치 X -> dp[i - 2] + dp[i - 3]
 		dp[i] = dp[i - 1] + dp[i - 2] * 3 + dp[i - 3];
 		dp[i] %= MOD;
 	}
