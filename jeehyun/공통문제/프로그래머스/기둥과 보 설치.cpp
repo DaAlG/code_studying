@@ -1,5 +1,6 @@
 #include <string>
 #include <vector>
+#include <algorithm>
 #include <iostream>
 
 using namespace std;
@@ -16,17 +17,20 @@ bool possible(vector<vector<int>> answer) {
             bool right = false;
 
             for (int j = 0; j < answer.size(); j++) {
-                if (answer[j][0] == x && answer[j][1] == y - 1 && answer[j][2] == 0) // 한쪽 끝부분이 기둥 위
+                if (answer[j][0] == x && answer[j][1] == y - 1 && answer[j][2] == 0) // 왼쪽 끝부분이 기둥 위
                     check = true;
-                if (answer[j][0] == x + 1 && answer[j][1] == y - 1 && answer[j][2] == 0)
+                if (answer[j][0] == x + 1 && answer[j][1] == y - 1 && answer[j][2] == 0) // 오른쪽 끝부분이 기둥 위
                     check = true;
-                if (answer[j][0] == x - 1 && answer[j][1] == y && answer[j][2] == 1)
+                if (answer[j][0] == x - 1 && answer[j][1] == y && answer[j][2] == 1) // 왼쪽 끝부분이 다른 보와 연결
                     left = true;
-                if (answer[j][0] == x + 1 && answer[j][1] == y && answer[j][2] == 1)
+                if (answer[j][0] == x + 1 && answer[j][1] == y && answer[j][2] == 1) // 오른쪽 끝부분이 다른 보와 연결
                     right = true;
             }
 
+            // 양쪽 끝부분이 다른 보와 동시에 연결되어있으면 설치 가능 
             if (left && right) check = true;
+            
+            // 아니라면 거짓 반환
             if (!check) return false;
         }
         else { // 기둥
@@ -34,14 +38,15 @@ bool possible(vector<vector<int>> answer) {
             if (y == 0) check = true; // 바닥 위
             
             for (int j = 0; j < answer.size(); j++) {
-                if (answer[j][0] == x - 1 && answer[j][1] == y && answer[j][2] == 1) // 보의 한 쪽 끝 부분 위
+                if (answer[j][0] == x - 1 && answer[j][1] == y && answer[j][2] == 1) // 보의 오른쪽 끝 부분 위
                     check = true;
-                if (answer[j][0] == x && answer[j][1] == y && answer[j][2] == 1) // 보의 한 쪽 끝 부분 위
+                if (answer[j][0] == x && answer[j][1] == y && answer[j][2] == 1) // 보의 왼쪽 끝 부분 위
                     check = true;
                 if (answer[j][0] == x && answer[j][1] == y - 1 && answer[j][2] == 0) // 다른 기둥 위
                     check = true;
             }
 
+            // 아니라면 거짓 반환
             if (!check) return false;
         }
     }
@@ -58,38 +63,34 @@ vector<vector<int>> solution(int n, vector<vector<int>> build_frame) {
         int operate = build_frame[i][3];
 
         if (operate) { // 설치
-            if (b) { // 설치
-                if ((building[x][y - 1] == !a || building[x + 1][y - 1] == !a) || (building[x - 1][y] == a && building[x + 1][y] == a)) {
-                    building[x][y] = a;
-                }
+            // 일단 설치를 해본다
+            answer.push_back({ x, y, stuff });
+            // 가능한 구조물인지 확인
+            if (!possible(answer)) {
+                // 가능한 구조물이 아니라면 다시 제거
+                answer.pop_back();
             }
-            /*else { // 삭제
-                if (building[x + 1][y - 1] == !a || building[])
-            }*/
         }
         else { // 삭제
-            if (b) { // 설치
-                if (y == 0 || building[x][y - 1] == a || building[x - 1][y] == !a) {
-                    building[x][y] = a;
+            // 일단 삭제를 해본다
+            int index = 0;
+            for (int j = 0; j < answer.size(); j++) {
+                if (answer[j][0] == x && answer[j][1] == y && answer[j][2] == stuff) {
+                    index = j;
                 }
             }
-            /*else { // 삭제
-                if (building[x][y] == -1) {
-                    building[x][y-1] = -1;
 
-                }
-            }*/
-        }
-    }
-
-    for (int i = 0; i <= n; i++) {
-        for (int j = 0; j <= n; j++) {
-            if (building[i][j] != -1) {
-                cout << i << ", " << j << ", " << building[i][j] << '\n';
-                answer.push_back({ i, j, building[i][j] });
+            vector<int> erased = answer[index];
+            answer.erase(answer.begin() + index);
+            // 가능한 구조물인지 확인
+            if (!possible(answer)) {
+                // 가능한 구조물이 아니라면 다시 설치
+                answer.push_back(erased);
             }
         }
     }
+
+    sort(answer.begin(), answer.end());
 
     return answer;
 }
