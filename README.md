@@ -33,10 +33,10 @@
 | 10주차<br />(21.04.12 ~ 21.04.18) |        [트럭](https://www.acmicpc.net/problem/13335)         | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) |
 | 11주차<br />(21.04.19 ~ 21.04.25) | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |    [병사 배치하기](https://www.acmicpc.net/problem/18353)    |
 | 12주차<br />(21.04.26 ~ 21.05.02) |      [무기 공학](https://www.acmicpc.net/problem/18430)      | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |
-| 13주차<br />(21.05.03 ~ 21.05.09) |                                                              |                                                              |
-| 14주차<br />(21.05.10 ~ 21.05.16) |                                                              |                                                              |
-| 15주차<br />(21.05.17 ~ 21.05.23) |                                                              |                                                              |
-| 16주차<br />(21.05.24 ~ 21.05.30) |                                                              |                                                              |
+| 13주차<br />(21.05.03 ~ 21.05.09) |      [인구 이동](https://www.acmicpc.net/problem/16234)      | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) |
+| 14주차<br />(21.05.10 ~ 21.05.16) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) |
+| 15주차<br />(21.05.17 ~ 21.05.23) |        [보물섬](https://www.acmicpc.net/problem/2589)        | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) |
+| 16주차<br />(21.05.24 ~ 21.05.30) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) |    [전화번호 목록](https://www.acmicpc.net/problem/5052)     |
 
 
 
