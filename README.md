@@ -85,11 +85,9 @@
 | 6주차<br />(21.03.15 ~ 21.03.21)  | ~1\. 백준 10825 - [국영수](https://www.acmicpc.net/problem/10825)~   <br>~2\. 백준 18310 - [안테나](https://www.acmicpc.net/problem/18310)~   <br> ~3\. 프로그래머스 42889 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)~   <br>~4\. 백준 1715 - [카드 정렬하기](https://www.acmicpc.net/problem/1715)~   <br> |
 | 7주차<br />(21.03.22 ~ 21.03.28)  | ~1\. 백준 2110 - [공유기 설치](https://www.acmicpc.net/problem/2110)<br>~ |
 | 8주차<br />(21.03.29 ~ 21.04.04)  | 1\. 프로그래머스 60060 - [가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060)   <br>~2\. 백준 1932 - [정수 삼각형](https://www.acmicpc.net/problem/1932)~   <br>~3\. 백준 14501 - [퇴사](https://www.acmicpc.net/problem/14501)~   <br>~4\. 백준 18353 - [병사 배치하기](https://www.acmicpc.net/problem/18353)~   <br>5\. 백준 11404 - [플로이드](https://www.acmicpc.net/problem/11404)   <br> |
-| 9주차<br />(21.04.05 ~ 21.04.11)  |                                                              |
-| 10주차<br />(21.04.12 ~ 21.04.18) |                                                              |
-| 11주차<br />(21.04.19 ~ 21.04.25) |                                                              |
-| 12주차<br />(21.04.26 ~ 21.05.02) |                                                              |
-
+| 12주차<br />(21.04.26 ~ 21.05.02) |백준 1110-더하기 사이클<br>백준 1650-누울자리를찾아라<br>백준 7576-토마토<br>                                                             |
+| 13주차<br />(21.05.03 ~ 21.05.09) |백준 1449-수리공항승<br>백준 7562-나이트의 이동<br>|
+| 14주차<br />(21.05.10 ~ 21.05.16) |백준 2309-일곱난쟁이<br>백준 2816-디지털티비<br>|
 ------
 
 </details>
