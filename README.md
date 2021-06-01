@@ -37,10 +37,10 @@
 | 14주차<br />(21.05.10 ~ 21.05.16) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) |
 | 15주차<br />(21.05.17 ~ 21.05.23) |        [보물섬](https://www.acmicpc.net/problem/2589)        | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) |
 | 16주차<br />(21.05.24 ~ 21.05.30) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) |    [전화번호 목록](https://www.acmicpc.net/problem/5052)     |
-| 17주차<br />(21.05.31 ~ 21.06.06) |                                                              |                                                              |
-| 18주차<br />(21.06.07 ~ 21.06.13) |                                                              |                                                              |
-| 19주차<br />(21.06.14 ~ 21.06.20) |                                                              |                                                              |
-| 20주차<br />(21.06.21 ~ 21.06.27) |                                                              |                                                              |
+| 17주차<br />(21.05.31 ~ 21.06.06) |    [통나무 옮기기](https://www.acmicpc.net/problem/1938)     |         [트리](https://www.acmicpc.net/problem/4256)         |
+| 18주차<br />(21.06.07 ~ 21.06.13) | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) |      [여행 가자](https://www.acmicpc.net/problem/1976)       |
+| 19주차<br />(21.06.14 ~ 21.06.20) |     [공유기 설치](https://www.acmicpc.net/problem/2110)      |  [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)  |
+| 20주차<br />(21.06.21 ~ 21.06.27) |       [내려가기](https://www.acmicpc.net/problem/2096)       | [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) |
 
 
 
