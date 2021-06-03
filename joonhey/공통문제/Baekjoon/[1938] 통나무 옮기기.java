@@ -196,5 +196,3 @@ class Point {
         this.dir = dir;
     }
 }
-
-
