@@ -4,80 +4,140 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
-	static int arr[][],check[][];		
-	static int num,l,r;
-	final static int dx[]= {0,1,0,-1};
-	final static int dy[]= {-1,0,1,0};
-	static class Info{
-		int x,y;
-		public Info(int y, int x) {
-			this.x=x;
-			this.y=y;
+class Main{
+	
+	static int[][] earth;
+	static int N, L, R;
+//	BFS 용
+	static class Point{
+		int x; int y;
+		public Point(int x, int y) {
+			this.x = x;
+			this.y = y;
+		}
+	}
+	static Queue<Point> queue;
+	static boolean[][] visited;
+	static int[] di, dj;
+//	[연합순번] => 연합 목록
+	static LinkedList<Point>[] unitInfo;
+//	[연합순번] => 연합 인구
+	static int[] unitPopulation;
+//	연합 인덱스
+	static int unitIdx;
+	
+//	i, j 기준으로 국경 열기 - 연합 별 나라, 인구 총 합 저장
+	public static void openBFS(int startX, int startY) {
+		
+//		연합 정보 설정
+		unitPopulation[unitIdx] = earth[startX][startY];
+		unitInfo[unitIdx].offer(new Point(startX, startY));
+
+//		BFS 탐색 시작
+		visited[startX][startY] = true;
+		queue.offer(new Point(startX, startY));
+		
+		int ni, nj, diff;
+		
+		while(!queue.isEmpty()) {
+			Point curNation = queue.poll();
+			for(int d= 0; d<4; d++) {
+				ni = curNation.x + di[d];
+				nj = curNation.y + dj[d];
+				if(ni >= 0 && nj >= 0 && ni < N && nj < N && !visited[ni][nj]) {
+					diff = Math.abs(earth[curNation.x][curNation.y] - earth[ni][nj]);
+//					연합국 추가쓰
+					if(diff >= L && diff <= R) {
+						unitPopulation[unitIdx] += earth[ni][nj];
+						unitInfo[unitIdx].offer(new Point(ni, nj));
+						visited[ni][nj] = true;
+						queue.offer(new Point(ni, nj));
+					}
+				}
+			}
+		}
+		
+	}
+	
+	public static void sharePeople() {
+//		연합국 별로 인구를 같게 만듦
+		int curPeople;
+		Point curPoint;
+		
+		for(int i=0; i<unitIdx; i++) {
+			curPeople = unitPopulation[i] / unitInfo[i].size();
+			while(!unitInfo[i].isEmpty()) {
+				curPoint = unitInfo[i].poll();
+				earth[curPoint.x][curPoint.y]= curPeople; 
+			}
 		}
 	}
 	
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		String s = br.readLine();
-		StringTokenizer st = new StringTokenizer(s);
-		num = Integer.parseInt(st.nextToken());
-		l = Integer.parseInt(st.nextToken());
-		r = Integer.parseInt(st.nextToken());
-		arr = new int[num][num];
+		StringTokenizer st = new StringTokenizer(br.readLine());
+//		객체 생성, 초기화
+		N = Integer.parseInt(st.nextToken());
+		L = Integer.parseInt(st.nextToken());
+		R = Integer.parseInt(st.nextToken());
+		earth = new int[N][N];
+		queue = new LinkedList<>();
+		unitInfo = new LinkedList[N*N];
+		di = new int[] {-1,1,0,0};
+		dj = new int[] {0,0,-1,1};
+		for(int i=0; i<N*N; i++)
+			unitInfo[i] = new LinkedList<>();
+		unitPopulation = new int[N*N];
 		
-		for(int i=0;i<num;i++) {
-			String str = br.readLine();
-			StringTokenizer st2 = new StringTokenizer(str);
-			for(int j=0;j<num;j++) 
-				arr[i][j]=Integer.parseInt(st2.nextToken());
+//		입력받기
+		for(int i=0; i<N; i++) {
+			st = new StringTokenizer(br.readLine());
+			for(int j=0; j<N; j++) {
+				earth[i][j] = Integer.parseInt(st.nextToken());
+			}
 		}
-		int result=0;
-		Info ii;
+//		이중 탐색->국경선 열기
+		int res = 0;
+		int ni, nj;
+		int diff;
+		
 		while(true) {
-			int cnt=0;
-			check = new int[num][num];
-			int tot[] = new int[2501];		 //한 국가의 인구 합	
-			int number[] = new int[2501];	// 한 국가 칸의 수	
-			for(int i=0;i<num;i++) {
-				for(int j=0;j<num;j++) {
-					if(check[i][j]==0) {
-						cnt++;
-						check[i][j]=cnt;						
-						Queue<Info> q = new LinkedList<>();
-						q.offer(new Info(i,j));
-						while(!q.isEmpty()) {
-							ii = q.poll();
-							int cx = ii.x;
-							int cy = ii.y;
-							tot[cnt]+=arr[cy][cx];
-							number[cnt]++;
-							for(int k=0;k<4;k++) {
-								int nx = cx + dx[k];
-								int ny = cy + dy[k];
-								if(nx>=0 && ny>=0 && nx<num && ny<num && check[ny][nx]==0 && l<=Math.abs(arr[ny][nx]-arr[cy][cx]) && Math.abs(arr[ny][nx]-arr[cy][cx])<=r ) {
-									check[ny][nx]=cnt;
-									q.offer(new Info(ny,nx));
+//			새로 탐색하면서 국경선 열고 인구 이동 시작
+			unitIdx = 0;
+			visited = new boolean[N][N];
+			
+			for(int i=0; i<N; i++) {
+				for(int j=0; j<N; j++) {
+					if(!visited[i][j]) {
+//						L 이상 R 이하 차이나는 인접국 있나 확인
+						for(int d=0; d<4; d++) {
+							ni = i + di[d];
+							nj = j + dj[d];
+							if(ni >= 0 && ni < N && nj >= 0 && nj < N && !visited[ni][nj] ) {
+								diff = Math.abs(earth[i][j] - earth[ni][nj]);
+//								[i][j] 기준으로 국경선 열어야 함
+								if(diff >= L && diff <= R) {
+									openBFS(i, j);
+//									연합 국 하나 건설 완료
+									unitIdx++;
+									break;
 								}
 							}
 						}
 					}
 				}
 			}
-			boolean change = false;
-			for(int i=0;i<num;i++) {
-				for(int j=0;j<num;j++) {
-					int country = check[i][j];
-					int vv = tot[country]/number[country];
-					if(arr[i][j]!=vv) {
-						change=true;
-						arr[i][j]=vv;
-					}
-				}
-			}
-			if(!change) break;
-			result++;
+			
+			
+//		연합을 맺은 게 아무것도 없으면 인구 이동을 종료한다.
+			if(unitIdx == 0)
+				break;
+//			인구 이동
+			sharePeople();
+			
+			res++;
 		}
-		System.out.println(result);
+		
+		System.out.println(res);
 	}
 }
