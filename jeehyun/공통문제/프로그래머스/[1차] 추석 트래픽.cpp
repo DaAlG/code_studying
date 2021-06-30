@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// ¹Ð¸®ÃÊ·Î °è»ê
+// ë°€ë¦¬ì´ˆë¡œ ê³„ì‚°
 int toMs(string s) {
     int hh = stoi(s.substr(0, 2));
     int mm = stoi(s.substr(3, 2));
@@ -14,7 +14,7 @@ int toMs(string s) {
     return hh * 3600000 + mm * 60000 + ss * 1000 + ms;
 }
 
-// ½ÃÀÛ½Ã°£ °è»ê
+// ì‹œìž‘ì‹œê°„ ê³„ì‚°
 int calc(int e, string t) {
     t.pop_back();
     int diff = 1000 * stof(t);
@@ -24,12 +24,12 @@ int calc(int e, string t) {
     return startMs;
 }
 
-// ÃÖ´ë Ã³¸®·® °è»ê
+// ìµœëŒ€ ì²˜ë¦¬ëŸ‰ ê³„ì‚°
 int getCnt(vector<pair<int, int>>& time, int start, int end) {
     int cnt = 0;
     for (int i = 0; i < time.size(); i++) {
-        // ¹üÀ§ ¾È¿¡ µé¾î°¡Áö ¾Ê´Â´Ù¸é ´ÙÀ½ ·Î±× È®ÀÎ
-        // start Æ÷ÇÔ end Æ÷ÇÔ X
+        // ë²”ìœ„ ì•ˆì— ë“¤ì–´ê°€ì§€ ì•ŠëŠ”ë‹¤ë©´ ë‹¤ìŒ ë¡œê·¸ í™•ì¸
+        // start í¬í•¨ end í¬í•¨ X
         if (time[i].first >= end || time[i].second < start) continue;
         cnt++;
     }
@@ -39,19 +39,19 @@ int getCnt(vector<pair<int, int>>& time, int start, int end) {
 int solution(vector<string> lines) {
     vector<pair<int, int>> time;
     for (int i = 0; i < lines.size(); i++) {
-        // ½ÃÀÛ½Ã°£°ú ³¡½Ã°£À» ms·Î ¹Ù²ãÁØ´Ù
+        // ì‹œìž‘ì‹œê°„ê³¼ ëì‹œê°„ì„ msë¡œ ë°”ê¿”ì¤€ë‹¤
         int end = toMs(lines[i].substr(11, 12));
         int start = calc(end, lines[i].substr(24));
         time.push_back({ start, end });
     }
-    // ½ÃÀÛ½Ã°£À» ±âÁØÀ¸·Î ¿À¸§Â÷¼ø
+    // ì‹œìž‘ì‹œê°„ì„ ê¸°ì¤€ìœ¼ë¡œ ì˜¤ë¦„ì°¨ìˆœ
     sort(time.begin(), time.end());
 
     int answer = 0;
     for (int i = 0; i < time.size(); i++) {
-        // ½ÃÀÛ½Ã°£ ~ ½ÃÀÛ½Ã°£ + 1000ÀÇ ÃÖ´ë Ã³¸®·®
+        // ì‹œìž‘ì‹œê°„ ~ ì‹œìž‘ì‹œê°„ + 1000ì˜ ìµœëŒ€ ì²˜ë¦¬ëŸ‰
         answer = max(answer, getCnt(time, time[i].first, time[i].first + 1000));
-        // ³¡½Ã°£ ~ ³¡½Ã°£ + 1000ÀÇ ÃÖ´ë Ã³¸®·®
+        // ëì‹œê°„ ~ ëì‹œê°„ + 1000ì˜ ìµœëŒ€ ì²˜ë¦¬ëŸ‰
         answer = max(answer, getCnt(time, time[i].second, time[i].second + 1000));
     }
 
