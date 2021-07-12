@@ -1,4 +1,4 @@
-# ㄴcode_studying
+# code_studying
 ## 경북대학교 컴퓨터학부 17학번 알고리즘 + 코딩테스트 스터디 2020.09~
 
 ------
@@ -150,7 +150,7 @@
 | 19주차<br />(21.06.14 ~ 21.06.20)  | 백준 10871 - [X보다 작은 수](https://www.acmicpc.net/problem/10871)<br />백준 15552 - [빠른 A+B](https://www.acmicpc.net/problem/15552)<br />백준 2108 - [통계학](https://www.acmicpc.net/problem/2108)<br />백준 14890 - [경사로](https://www.acmicpc.net/problem/14890)<br />백준 1248 - [맞춰봐](https://www.acmicpc.net/problem/1248)<br />백준 4948 - [베르트랑 공준](https://www.acmicpc.net/problem/4948)<br />백준 14395 - [4연산](https://www.acmicpc.net/problem/14395)<br />백준 16954 - [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)<br />백준 2822 - [점수 계산](https://www.acmicpc.net/problem/2822) |
 | 20주차<br />(21.06.21 ~ 21.06.27)  | 백준 1414 - [불우이웃돕기](https://www.acmicpc.net/problem/1414)<br />백준 16398 - [행성 연결](https://www.acmicpc.net/problem/16398)<br />프로그래머스 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)<br />프로그래머스 [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)<br />백준 11404 - [플로이드](https://www.acmicpc.net/problem/11404)<br />백준 1922 - [네트워크 연결](https://www.acmicpc.net/problem/1922)<br />백준 2665 - [미로만들기](https://www.acmicpc.net/problem/2665)<br />백준 1647 - [도시 분할 계획](https://www.acmicpc.net/problem/1647)<br />백준 2473 - [세 용액](https://www.acmicpc.net/problem/2473)<br />백준 2239 - [스도쿠](https://www.acmicpc.net/problem/2239)<br />백준 9375 - [패션왕 신해빈](https://www.acmicpc.net/problem/9375)<br />백준 2042 - [구간 합 구하기](https://www.acmicpc.net/problem/2042)<br />백준 2357 - [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)<br />백준 11505 - [구간 곱 구하기](https://www.acmicpc.net/problem/11505)<br />백준 2150 - [Strongly Connected Component](https://www.acmicpc.net/problem/2150) |
 | 21주차<br />(21.06.28 ~ 21.07.04)  | 백준 17086 - [아기 상어 2](https://www.acmicpc.net/problem/17086)<br />백준 17071 - [숨바꼭질 5](https://www.acmicpc.net/problem/17071)<br />백준 16472 - [고냥이](https://www.acmicpc.net/problem/16472)<br />백준 2961 - [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)<br />백준 1620 - [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)<br />백준 4949 - [균형잡힌 세상](https://www.acmicpc.net/problem/4949)<br />백준 5397 - [키로거](https://www.acmicpc.net/problem/5397)<br />백준 2941 - [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)<br />백준 1120 - [문자열](https://www.acmicpc.net/problem/1120)<br />백준 9935 - [문자열 폭발](https://www.acmicpc.net/problem/9935)<br />백준 10868 - [최솟값](https://www.acmicpc.net/problem/10868)<br />백준 6497 - [전력난](https://www.acmicpc.net/problem/6497)<br />백준 4358 - [생태학](https://www.acmicpc.net/problem/4358) |
-| 22주차<br />(21.07.05 ~ 21.07.11)  | 백준 3425 - [고스택](https://www.acmicpc.net/problem/3425)<br />백준 1713 - [후보 추천하기](https://www.acmicpc.net/problem/1713)<br />백준 11003 - [최솟값 찾기](https://www.acmicpc.net/problem/11003)<br />백준 16202 - [MST 게임](https://www.acmicpc.net/problem/16202) |
+| 22주차<br />(21.07.05 ~ 21.07.11)  | 백준 3425 - [고스택](https://www.acmicpc.net/problem/3425)<br />백준 1713 - [후보 추천하기](https://www.acmicpc.net/problem/1713)<br />백준 11003 - [최솟값 찾기](https://www.acmicpc.net/problem/11003)<br />백준 16202 - [MST 게임](https://www.acmicpc.net/problem/16202)<br />백준 1316 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316)<br />백준 20010 - [악덕 영주 혜유](https://www.acmicpc.net/problem/20010)<br />백준 1874 - [스택 수열](https://www.acmicpc.net/problem/1874)<br />백준 9093 - [단어 뒤집기](https://www.acmicpc.net/problem/9093)<br />백준 2164 - [카드2](https://www.acmicpc.net/problem/2164)<br />백준 2161 - [카드1](https://www.acmicpc.net/problem/2161)<br />백준 11866 - [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br />백준 20366 - [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |
 | 23주차<br />(21.07.12 ~ 21.07.18)  |                                                              |
 | 24주차<br />(21.07.19 ~ 21.07.25)  |                                                              |
 
@@ -239,6 +239,27 @@
 
 </details>
 
+
+
+<details markdown="1">
+<summary><strong>📄 프로그래머스 월간 코드 챌린지 시즌2</strong></summary>
+
+
+|         문제         | 레벨 |                           URL                            |
+| :------------------: | :--: | :------------------------------------------------------: |
+|     음양 더하기      |  1   | https://programmers.co.kr/learn/courses/30/lessons/76501 |
+|  약수의 개수와 덧셈  |  1   | https://programmers.co.kr/learn/courses/30/lessons/77884 |
+|    괄호 회전하기     |  2   | https://programmers.co.kr/learn/courses/30/lessons/76502 |
+| 2개 이하로 다른 비트 |  2   | https://programmers.co.kr/learn/courses/30/lessons/77885 |
+|  모두 0으로 만들기   |  3   | https://programmers.co.kr/learn/courses/30/lessons/76503 |
+|      110 옮기기      |  3   | https://programmers.co.kr/learn/courses/30/lessons/77886 |
+|      RPG와 쿼리      |  5   | https://programmers.co.kr/learn/courses/30/lessons/76504 |
+|      중력 작용       |  5   | https://programmers.co.kr/learn/courses/30/lessons/77887 |
+
+------
+
+</details>
+
 <details markdown="1">
 <summary><strong>📄 카카오 코드 페스티벌 2018 예선</strong></summary>
 
@@ -312,6 +333,25 @@
 |    H-Index    | https://programmers.co.kr/learn/courses/30/lessons/42747 |
 |   입국 심사   | https://programmers.co.kr/learn/courses/30/lessons/43238 |
 |     예산      | https://programmers.co.kr/learn/courses/30/lessons/43237 |
+
+------
+
+</details>
+
+
+
+<details markdown="1">
+<summary><strong>📄 2021 카카오 채용연계형 인턴십 (프로그래머스)</strong></summary>
+
+
+
+|         문제         | 레벨 |                           URL                            |
+| :------------------: | :--: | :------------------------------------------------------: |
+| 숫자 문자열과 영단어 |  1   | https://programmers.co.kr/learn/courses/30/lessons/81301 |
+|  거리두기 확인하기   |  2   | https://programmers.co.kr/learn/courses/30/lessons/81302 |
+|       표 편집        |  3   | https://programmers.co.kr/learn/courses/30/lessons/81303 |
+|      미로 탈출       |  4   | https://programmers.co.kr/learn/courses/30/lessons/81304 |
+|    시험장 나누기     |  5   | https://programmers.co.kr/learn/courses/30/lessons/81305 |
 
 ------
 
