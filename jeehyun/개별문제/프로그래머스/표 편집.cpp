@@ -1,52 +1,68 @@
+#include <iostream>
 #include <string>
 #include <vector>
-#include <list>
+#include <stack>
 
 using namespace std;
 
 string solution(int n, int k, vector<string> cmd) {
-    vector<bool> deleted(n); // true : 삭제된 행
-    vector<int> st;
-    list<int> table;
+    stack<int> st; // 삭제된 행
+    vector<int> prev;
+    vector<int> next;
 
-    for (int i = 0; i < n; i++) table.push_back(i);
-
-    auto cur = table.begin();
-    for (int i = 0; i < k; i++) cur++;
+    for (int i = 0; i < n + 2; i++) {
+        prev.push_back(i - 1);
+        next.push_back(i + 1);
+    }
+    k++;
 
     for (int i = 0; i < cmd.size(); i++) {
         if (cmd[i][0] == 'U') {
             for (int j = 0; j < stoi(cmd[i].substr(2)); j++) {
-                cur--;
+                k = prev[k];
             }
         }
         else if (cmd[i][0] == 'D') {
             for (int j = 0; j < stoi(cmd[i].substr(2)); j++) {
-                cur++;
+                k = next[k];
             }
         }
         else if (cmd[i][0] == 'C') {
-            deleted[*cur] = true;
-            st.push_back(*cur);
+            st.push(k);
+            next[prev[k]] = next[k];
+            prev[next[k]] = prev[k];
 
-            auto now = cur;
-
-            if (*cur == table.back()) cur--;
-            else cur++;
-            table.erase(now);
+            if (next[k] == n + 1) k = prev[k];
+            else k = next[k];
         }
         else if (cmd[i][0] == 'Z') {
-            deleted[st.back()] = false;
-            table.push_back(st.back());
-            table.sort();
-            st.pop_back();
+            int r = st.top();
+            next[prev[r]] = r;
+            prev[next[r]] = r;
+            st.pop();
         }
     }
 
-    string answer = "";
-    for (int i = 0; i < deleted.size(); i++) {
-        if (deleted[i]) answer += 'X';
-        else answer += 'O';
+    string answer;
+    answer.append(n, 'O');
+
+    while (!st.empty()) {
+        answer[st.top() - 1] = 'X';
+        st.pop();
     }
+
     return answer;
+}
+
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
+    int n = 8;
+    int k = 2;
+    vector<string> cmd = { "D 2","C","U 3","C","D 4","C","U 2","Z","Z" };
+    cout << solution(n, k, cmd);
+    return 0;
 }
