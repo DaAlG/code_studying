@@ -34,10 +34,12 @@ int main()
 	for (int i = 1; i <= h; i++) {
 		int tmp = 0; // 장애물 개수
 
-		auto lower = lower_bound(obs1.begin(), obs1.end(), h - i + 1);
+		// 개똥벌레가 파괴하는 석순 개수
+		auto lower = lower_bound(obs1.begin(), obs1.end(), i);
 		tmp += distance(lower, obs1.end());
 
-		lower = lower_bound(obs2.begin(), obs2.end(), i);
+		// 개똥벌레가 파괴하는 종유석 개수
+		lower = lower_bound(obs2.begin(), obs2.end(), h - i + 1);
 		tmp += distance(lower, obs2.end());
 
 		if (tmp == answer) {
