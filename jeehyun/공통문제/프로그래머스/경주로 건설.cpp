@@ -1,58 +1,54 @@
 #include <string>
 #include <vector>
 #include <queue>
-#include <cstring>
-#include <iostream>
 #define INF 0x3f3f3f
 
 using namespace std;
 
-int cost[25][25];
+struct Road {
+    int x, y, cost, dir;
+};
 
 int dx[] = { 0, 1, 0, -1 };
 int dy[] = { 1, 0, -1, 0 };
 
 int solution(vector<vector<int>> board) {
     int n = board.size();
-    memset(cost, INF, sizeof(cost));
 
-    queue<pair<pair<int, int>, int>> q;
-    q.push({ {0, 0}, -1 });
-    cost[0][0] = 0;
+    queue<Road> q;
+    q.push({ 0, 0, 0, 10});
+    board[0][0] = 1;
 
+    int answer = INF;
     while (!q.empty()) {
-        int x = q.front().first.first;
-        int y = q.front().first.second;
-        int dir = q.front().second;
+        Road r = q.front();
         q.pop();
 
-        if (x == n - 1 && y == n - 1)
+        if (r.x == n - 1 && r.y == n - 1) {
+            answer = min(answer, r.cost);
             continue;
+        }
 
         for (int d = 0; d < 4; d++) {
-            int nx = x + dx[d];
-            int ny = y + dy[d];
+            if (abs(d - r.dir) == 2) continue;
+            
+            int nx = r.x + dx[d];
+            int ny = r.y + dy[d];
 
-            if (nx < 0 || nx >= n || ny < 0 || ny >= n || board[nx][ny]) continue;
+            if (nx < 0 || nx >= n || ny < 0 || ny >= n || board[nx][ny] == 1) continue;
 
-            int nCost = 100;
-            if (dir != -1 && d % 2 != dir)
-                nCost += 500;
+            int nCost = r.cost;
+            if ((r.x == 0 && r.y == 0) || r.dir == d)
+                nCost += 100;
+            else
+                nCost += 600;
 
-            if (cost[nx][ny] >= cost[x][y] + nCost) {
-                q.push({ {nx, ny}, d % 2 });
-                cost[nx][ny] = cost[x][y] + nCost;
+            if (board[nx][ny] == 0 ||  board[nx][ny] >= nCost) {
+                q.push({ nx, ny, nCost, d });
+                board[nx][ny] = nCost;
             }
         }
     }
 
-    return cost[n - 1][n - 1];
-}
-
-int main()
-{
-    vector<vector<int>> board = { {0,0,0,0,0,0} ,{0,1,1,1,1,0},
-        {0, 0, 1, 0, 0, 0},{1, 0, 0, 1, 0, 1},{0, 1, 0, 0, 0, 1},{0, 0, 0, 0, 0, 0} };
-    cout << solution(board);
-    return 0;
+    return answer;
 }
