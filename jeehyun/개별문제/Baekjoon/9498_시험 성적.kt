@@ -1,12 +1,12 @@
-import java.util.*
-
 fun main() {
-    val sc = Scanner(System.`in`)
-    val a = sc.nextInt()
+    val score = readLine()!!.toInt()
+    println(getGrade(score))
+}
 
-    if (a >= 90) println("A")
-    else if (a >= 80) println("B")
-    else if (a >= 70) println("C")
-    else if (a >= 60) println("D")
-    else println("F")
+fun getGrade(score : Int) : String {
+    if (score >= 90) return "A"
+    else if (score >= 80) return "B"
+    else if (score >= 70) return "C"
+    else if (score >= 60) return "D"
+    else return "F"
 }

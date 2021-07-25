@@ -1,11 +1,6 @@
 fun main() {
     val input = readLine()!!.split(" ").map { it.toInt() }
-
-    if (input[0] > input[1]) {
-        println(">")
-    } else if (input[0] < input[1]) {
-        println("<")
-    } else {
-        println("==")
-    }
+    println(compareNum(input[0], input[1]))
 }
+
+fun compareNum(a : Int, b : Int) = if (a > b) ">" else if (a < b) "<" else "=="
