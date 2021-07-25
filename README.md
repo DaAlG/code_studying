@@ -128,8 +128,11 @@
 
 <details markdown="1">
 <summary><strong>&#128193; 지현</strong></summary>
-🍋 [기술 블로그](https://woojeenow.tistory.com/) 🍋 <br>
+
+🍋 [기술 블로그](https://woojeenow.tistory.com/) 🍋
+
 [🍒 Study Diary 지현 🍒](./jeehyun/README.md)
+
 
 ------
 
