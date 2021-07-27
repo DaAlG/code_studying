@@ -46,6 +46,10 @@
 | 22주차<br />(21.07.05 ~ 21.07.11) |        [감시](https://www.acmicpc.net/problem/15683)         | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |
 | 23주차<br />(21.07.12 ~ 21.07.18) |          [⚾](https://www.acmicpc.net/problem/17281)          |      [어른 상어](https://www.acmicpc.net/problem/19237)      |
 | 24주차<br />(21.07.19 ~ 21.07.25) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) |
+| 25주차<br />(21.07.19 ~ 21.07.25) | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [스타수열](https://programmers.co.kr/learn/courses/30/lessons/70130) |
+| 26주차<br />(21.07.19 ~ 21.07.25) | [상어중학교](https://www.acmicpc.net/problem/21609) |[미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304) |
+| 27주차<br />(21.07.19 ~ 21.07.25) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) |
+| 28주차<br />(21.07.19 ~ 21.07.25) | [수학은 너무 쉬워](https://www.acmicpc.net/problem/2904) | [사전](https://www.acmicpc.net/problem/1256) |
 ------
 
 
