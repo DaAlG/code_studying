@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-class Main {
+class ain {
   static String num;
   static String[] binary = {
     "000","001","010","011","100","101","110","111"
