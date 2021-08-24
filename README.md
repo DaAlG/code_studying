@@ -53,11 +53,13 @@
 | 23주차<br />(21.07.12 ~ 21.07.18) |          [⚾](https://www.acmicpc.net/problem/17281)          |      [어른 상어](https://www.acmicpc.net/problem/19237)      |
 | 24주차<br />(21.07.19 ~ 21.07.25) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) |
 | 25주차<br />(21.07.26 ~ 21.08.01) | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [스타수열](https://programmers.co.kr/learn/courses/30/lessons/70130) |
-| 26주차<br />(21.08.02 ~ 21.08.09) | [상어중학교](https://www.acmicpc.net/problem/21609) |[미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304) |
-| 27주차<br />(21.08.10 ~ 21.08.17) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) |
-| 28주차<br />(21.08.18 ~ 21.08.25) | [수학은 너무 쉬워](https://www.acmicpc.net/problem/2904) | [사전](https://www.acmicpc.net/problem/1256) |
+| 26주차<br />(21.08.02 ~ 21.08.08) |     [상어중학교](https://www.acmicpc.net/problem/21609)      | [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304) |
+| 27주차<br />(21.08.09 ~ 21.08.15) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) |
+| 28주차<br />(21.08.16 ~ 21.08.22) |   [수학은 너무 쉬워](https://www.acmicpc.net/problem/2904)   |         [사전](https://www.acmicpc.net/problem/1256)         |
+| 29주차<br />(21.08.23 ~ 21.08.29) |         [교환](https://www.acmicpc.net/problem/1039)         | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) |
+| 30주차<br />(21.08.30 ~ 21.09.05) |     [집합의 표현](https://www.acmicpc.net/problem/1717)      | [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892) |
+| 31주차<br />(21.09.06 ~ 21.09.12) | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |    [괄호 추가하기](https://www.acmicpc.net/problem/16637)    |
 ------
-
 
 
 
