@@ -485,9 +485,9 @@
 
 
 
-|                                   | 문제 |
-| :-------------------------------: | :--- |
-| 30주차<br />(21.08.30 ~ 21.09.05) |      |
+|                                   | 문제                                                         |
+| :-------------------------------: | :----------------------------------------------------------- |
+| 30주차<br />(21.08.30 ~ 21.09.05) | SWEA [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) ([Java 풀이](./개별문제/SW%20Expert%20Academy/2805_농작물%20수확하기.java))<br />SWEA [숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq) ([Java 풀이](./개별문제/SW%20Expert%20Academy/1966_숫자를%20정렬하자.java))<br />SWEA [파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq) ([Java 풀이](./개별문제/SW%20Expert%20Academy/2005_파스칼의%20삼각형.java))<br />SWEA [파리 퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq) ([Java 풀이](./개별문제/SW%20Expert%20Academy/2001_파리%20퇴치.java))<br />SWEA [날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PnnU6AOsDFAUq) ([Java 풀이](./개별문제/SW%20Expert%20Academy/1948_날짜%20계산기.java)) |
 
 <br>
 
