@@ -20,26 +20,27 @@ class Solution {
         }
         
         //값 확인
-        List<Integer> ans = new ArrayList<>();
-        int i = 0;
-        while(i<answer.length) {
-    	   int cnt = 1;
-           
-           for(int j=i+1 ; j < answer.length ; j++){  
-           	if(answer[i] >= answer[j]){
-           		answer[j] = -1;  // 확인한 것 처리
-           		i = j;
-           		cnt++;
-           	} else {
-           		break;
-           	}
-           }
-           i++;
-           ans.add(cnt);
+        ArrayList<Integer> list = new ArrayList<>();
+        for (int i = 0; i < answer.length; i++) {  //기준값 입니다.
+            int origin = answer[i];
+            int count = 1;
+            if (origin < 0) {  //조사가 완료된 대상이면 건너뛰기를 합니다.
+                continue;
+            }
+            for (int j = i + 1; j < answer.length; j++) {  //기준값 다음의 값 입니다.
+                int compare = answer[j];
+                if (origin >= compare) {
+                    answer[j] = -1;  //조사가 완료되었으므로 대상에서 제거 합니다.
+                    count++;
+                } else {
+                    break;
+                }
+            }
+            list.add(count);
         }
         
-        System.out.println(ans);
-        return ans;
+        System.out.println(list);
+        return list;
     }
     
 	public static void main(String[] args) {
