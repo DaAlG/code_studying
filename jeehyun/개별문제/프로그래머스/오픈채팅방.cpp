@@ -1,48 +1,42 @@
 #include <string>
 #include <vector>
+#include <sstream>
 #include <map>
 #include <iostream>
 
 using namespace std;
 
-vector<string> getInfo(string s) {
-    vector<string> res;
-
-    for (int i = 0; i < s.size(); i++) {
-        int j = i;
-        while (j < s.size() && s[j] != ' ') j++;
-        res.push_back(s.substr(i, j - i));
-        i = j;
-    }
-
-    return res;
-}
-
 vector<string> solution(vector<string> record) {
-    vector<pair<string, bool>> log;
-    map<string, string> nickname;
+    vector<string> answer;
 
-    for (string rec : record) {
-        vector<string> info = getInfo(rec);
+    map<string, string> mp; // [유저 아이디] 사용자의 닉네임
+    vector<pair<string, int>> log;
+    for (string s : record) {
+        stringstream ss(s);
 
-        if (info[0] == "Enter") {
-            nickname[info[1]] = info[2];
-            log.push_back({ info[1], true });
+        string cmd, id, nickname;
+        ss >> cmd;
+        ss >> id;
+
+        if (cmd == "Enter") {
+            ss >> nickname;
+            mp[id] = nickname;
+            log.push_back({ id, 1 });
         }
-        else if (info[0] == "Leave") {
-            log.push_back({ info[1], false });
+        else if (cmd == "Leave") {
+            log.push_back({ id, 0 });
         }
-        else if (info[0] == "Change") {
-            nickname[info[1]] = info[2];
+        else if (cmd == "Change") {
+            ss >> nickname;
+            mp[id] = nickname;
         }
     }
 
-    vector<string> answer;
     for (int i = 0; i < log.size(); i++) {
         if (log[i].second)
-            answer.push_back(nickname[log[i].first] + "님이 들어왔습니다.");
+            answer.push_back(mp[log[i].first] + "님이 들어왔습니다.");
         else
-            answer.push_back(nickname[log[i].first] + "님이 나갔습니다.");
+            answer.push_back(mp[log[i].first] + "님이 나갔습니다.");
     }
 
     return answer;
