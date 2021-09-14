@@ -59,6 +59,9 @@
 | 29주차<br />(21.08.23 ~ 21.08.29) |         [교환](https://www.acmicpc.net/problem/1039)         | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) |
 | 30주차<br />(21.08.30 ~ 21.09.05) |     [집합의 표현](https://www.acmicpc.net/problem/1717)      | [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892) |
 | 31주차<br />(21.09.06 ~ 21.09.12) | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |    [괄호 추가하기](https://www.acmicpc.net/problem/16637)    |
+| 32주차<br />(21.09.13 ~ 21.09.19) |         [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)         | [가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060) |
+| 33주차<br />(21.09.20 ~ 21.09.26) |     [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)      | [타임머신](https://www.acmicpc.net/problem/11657) |
+| 34주차<br />(21.09.27 ~ 21.10.03) | [불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) |    [키 순서](https://www.acmicpc.net/problem/2458)    |
 ------
 
 
