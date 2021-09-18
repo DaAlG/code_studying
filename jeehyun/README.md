@@ -526,7 +526,7 @@
 
 |                                   | 문제                                                         |
 | :-------------------------------: | :----------------------------------------------------------- |
-| 32주차<br />(21.09.13 ~ 21.09.19) | 백준 17406 - [배열 돌리기 4](https://www.acmicpc.net/problem/17406) ([C++ 풀이](./개별문제/Baekjoon/17406_배열%20돌리기%204.cpp)) |
+| 32주차<br />(21.09.13 ~ 21.09.19) | 백준 17406 - [배열 돌리기 4](https://www.acmicpc.net/problem/17406) ([C++ 풀이](./개별문제/Baekjoon/17406_배열%20돌리기%204.cpp))<br />Codeforces 1560 A [Dislike of Threes](https://codeforces.com/problemset/problem/1560/A) ([C++ 풀이](./개별문제/Codeforces/1560A_Dislike%20of%20Threes.cpp))<br />Codeforces 1560 B [Who's Opposite?](https://codeforces.com/problemset/problem/1560/B) ([C++ 풀이](./개별문제/Codeforces/1560B_Whos%20Opposite.cpp))<br />Codeforces 1560 C [Infinity Table](https://codeforces.com/problemset/problem/1560/C) ([C++ 풀이](./개별문제/Codeforces/1560C_Infinity%20Table.cpp)) |
 
 <br>
 
