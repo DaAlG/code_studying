@@ -62,6 +62,9 @@
 | 32주차<br />(21.09.13 ~ 21.09.19) |         [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)         | [가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060) |
 | 33주차<br />(21.09.20 ~ 21.09.26) |     [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)      | [타임머신](https://www.acmicpc.net/problem/11657) |
 | 34주차<br />(21.09.27 ~ 21.10.03) | [불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) |    [키 순서](https://www.acmicpc.net/problem/2458)    |
+| 35주차<br />(21.10.04 ~ 21.10.10) | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [디스크컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |
+| 36주차<br />(21.10.11 ~ 21.10.17) | [숨바꼭질](https://www.acmicpc.net/problem/12851) | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |
+| 37주차<br />(21.10.18 ~ 21.10.24) | [호텔방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) | [합리적인 이동경로](https://www.acmicpc.net/problem/2176) |
 ------
 
 
