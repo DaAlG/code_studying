@@ -65,6 +65,9 @@
 | 35주차<br />(21.10.04 ~ 21.10.10) | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [디스크컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |
 | 36주차<br />(21.10.11 ~ 21.10.17) | [숨바꼭질](https://www.acmicpc.net/problem/12851) | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |
 | 37주차<br />(21.10.18 ~ 21.10.24) | [호텔방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) | [합리적인 이동경로](https://www.acmicpc.net/problem/2176) |
+| 38주차<br />(21.10.25 ~ 21.10.31) | [좋다](https://www.acmicpc.net/problem/1253) | [어항 정리](https://www.acmicpc.net/problem/23291) |
+| 39주차<br />(21.11.01 ~ 21.11.07) | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?) | [낚시왕](https://www.acmicpc.net/problem/17143) |
+| 40주차<br />(21.11.08 ~ 21.11.14) | [미네랄](https://www.acmicpc.net/problem/2933) | [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646) |
 ------
 
 
