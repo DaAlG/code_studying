@@ -354,13 +354,11 @@
 
 |                                   | 문제                                                         |
 | :-------------------------------: | :----------------------------------------------------------- |
-| 23주차<br />(21.07.12 ~ 21.07.18) | 백준 17298 - [오큰수](https://www.acmicpc.net/problem/17298)<br />백준 17299 - [오등큰수](https://www.acmicpc.net/problem/17299)<br />프로그래머스 [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)<br />백준 1342 - [행운의 문자열](https://www.acmicpc.net/problem/17299)<br />백준 1516 - [게임 개발](https://www.acmicpc.net/problem/1516)<br />백준 3020 - [개똥벌레](https://www.acmicpc.net/problem/3020)<br />백준 11437 - [LCA](https://www.acmicpc.net/problem/11437)<br />백준 11438 - [LCA 2](https://www.acmicpc.net/problem/11438)<br />백준 17404 - [RGB거리 2](https://www.acmicpc.net/problem/17404) |
+| 23주차<br />(21.07.12 ~ 21.07.18) | 백준 17298 - [오큰수](https://www.acmicpc.net/problem/17298) ([C++ 풀이](./개별문제/Baekjoon/17298_오큰수.cpp))<br />백준 17299 - [오등큰수 ](https://www.acmicpc.net/problem/17299)([C++ 풀이](./개별문제/Baekjoon/17299_오등큰수.cpp))<br />프로그래머스 [표 편집 ](https://programmers.co.kr/learn/courses/30/lessons/81303) ([C++ 풀이](./개별문제/Programmers/표%20편집.cpp))<br />백준 1342 - [행운의 문자열](https://www.acmicpc.net/problem/17299) ([C++ 풀이](./개별문제/Baekjoon/1342_행운의%20문자열.cpp))<br />백준 1516 - [게임 개발](https://www.acmicpc.net/problem/1516) ([C++ 풀이](./개별문제/Baekjoon/1516_게임%20개발.cpp))<br />백준 3020 - [개똥벌레](https://www.acmicpc.net/problem/3020) ([C++ 풀이](./개별문제/Baekjoon/3020_개똥벌레.cpp))<br />백준 11437 - [LCA](https://www.acmicpc.net/problem/11437) ([C++ 풀이](./개별문제/Baekjoon/11437_LCA.cpp))<br />백준 11438 - [LCA 2](https://www.acmicpc.net/problem/11438) ([C++ 풀이](./개별문제/Baekjoon/11438_LCA%202.cpp))<br />백준 17404 - [RGB거리 2 ](https://www.acmicpc.net/problem/17404) ([C++ 풀이](./개별문제/Baekjoon/17404_RGB거리%202.cpp)) |
 
 <br>
 
 </details>
-
-
 
 
 
