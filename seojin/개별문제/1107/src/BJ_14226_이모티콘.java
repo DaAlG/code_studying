@@ -3,8 +3,6 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-import com.sun.org.apache.bcel.internal.generic.CHECKCAST;
-
 public class BJ_14226_이모티콘 {
 	
 	static int S;
