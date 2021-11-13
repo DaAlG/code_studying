@@ -557,8 +557,6 @@
 <br>
 
 
-
-
 |                                   | 문제                                                         |
 | :-------------------------------: | :----------------------------------------------------------- |
 | 33주차<br />(21.09.27 ~ 21.10.03) | 백준 17352 - [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) ([C++ 풀이](./개별문제/Baekjoon/17352_여러분의%20다리가%20되어%20드리겠습니다!.cpp))<br />Codeforces 1579 B [Shifting Sort](https://codeforces.com/problemset/problem/1579/B) ([C++ 풀이](./개별문제/Codeforces/1579B_Shifting%20Sort.cpp)) |
