@@ -68,6 +68,9 @@
 | 38주차<br />(21.10.25 ~ 21.10.31) | [좋다](https://www.acmicpc.net/problem/1253) | [어항 정리](https://www.acmicpc.net/problem/23291) |
 | 39주차<br />(21.11.01 ~ 21.11.07) | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?) | [낚시왕](https://www.acmicpc.net/problem/17143) |
 | 40주차<br />(21.11.08 ~ 21.11.14) | [미네랄](https://www.acmicpc.net/problem/2933) | [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646) |
+| 41주차<br />(21.11.15 ~ 21.11.21) | [회전 초밥](https://www.acmicpc.net/problem/15961) | [퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021) |
+| 42주차<br />(21.11.22 ~ 21.11.28) | [공항](https://www.acmicpc.net/problem/10775) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |
+| 43주차<br />(21.11.29 ~ 21.12.05) | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
 ------
 
 
