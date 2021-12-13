@@ -73,6 +73,7 @@
 | 42주차<br />(21.11.22 ~ 21.11.28) | [공항](https://www.acmicpc.net/problem/10775) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |
 | 43주차<br />(21.11.29 ~ 21.12.05) | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
 | 44주차<br />(21.12.06 ~ 21.12.11) | [나무 재테크](https://www.acmicpc.net/problem/16235) | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |
+| 44주차<br />(21.12.06 ~ 21.12.11) | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) |
 ------
 
 
